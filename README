@@ -1,0 +1,60 @@
+=== Plugin Name ===
+Contributors: jcolafrancesco
+
+'a short description'
+
+== Description ==
+
+'a long description'
+
+== Installation ==
+
+Two libraries must be linked to this project:
+
+- FFTW : http://www.fftw.org/
+- Boost(ublas) : http://www.boost.org/
+
+FFTW is Fast Fourier Transform (FFT) library. In this project, the library is used for fast convolution in a distance compensation context.
+
+Boost is used for its UBLAS subset, a set of objects dedicated to linear Algerbra.
+
+
+
+== Frequently Asked Questions ==
+
+
+
+== Screenshots ==
+
+1. This screen shot description corresponds to screenshot-1.(png|jpg|jpeg|gif). Note that the screenshot is taken from
+the directory of the stable readme.txt, so in this case, `/tags/4.3/screenshot-1.png` (or jpg, jpeg, gif)
+2. This is the second screen shot
+
+== Changelog ==
+
+= 1.0 =
+* A change since the previous version.
+* Another change.
+
+= 0.5 =
+* List versions from most recent at top to oldest at bottom.
+
+== Upgrade Notice ==
+
+= 1.0 =
+Upgrade notices describe the reason a user should upgrade.  No more than 300 characters.
+
+== Arbitrary section ==
+
+
+
+== A brief Markdown Example ==
+
+
+
+Unordered list:
+
+* something
+* something else
+* third thing
+
