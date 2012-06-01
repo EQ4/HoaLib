@@ -1,0 +1,8 @@
+/Developer/flext/MaxSDK-5.1.7/examples/HoaEncode/AmbisonicEncode.cpp:31: error: prototype for 'const std::vector<double, std::allocator<double> >& AmbisonicEncode::process(double)' does not match any in class 'AmbisonicEncode'
+/Developer/flext/MaxSDK-5.1.7/examples/HoaEncode/AmbisonicEncode.h:40: error: candidates are: const std::vector<double, std::allocator<double> > AmbisonicEncode::process(double, double)
+/Developer/flext/MaxSDK-5.1.7/examples/HoaEncode/AmbisonicEncode.h:39: error:                 const std::vector<double, std::allocator<double> > AmbisonicEncode::process(double)
+/Developer/flext/MaxSDK-5.1.7/examples/HoaEncode/AmbisonicEncode.cpp:31: error: 'const std::vector<double, std::allocator<double> >& AmbisonicEncode::process(double)' and 'const std::vector<double, std::allocator<double> > AmbisonicEncode::process(double)' cannot be overloaded
+/Developer/flext/MaxSDK-5.1.7/examples/HoaEncode/AmbisonicEncode.cpp: In member function 'const std::vector<double, std::allocator<double> >& AmbisonicEncode::process(double)':
+/Developer/flext/MaxSDK-5.1.7/examples/HoaEncode/AmbisonicEncode.cpp:33: warning: comparison between signed and unsigned integer expressions
+/Developer/flext/MaxSDK-5.1.7/examples/HoaEncode/AmbisonicEncode.cpp: In member function 'const std::vector<double, std::allocator<double> > AmbisonicEncode::process(double, double)':
+/Developer/flext/MaxSDK-5.1.7/examples/HoaEncode/AmbisonicEncode.cpp:53: warning: comparison between signed and unsigned integer expressions

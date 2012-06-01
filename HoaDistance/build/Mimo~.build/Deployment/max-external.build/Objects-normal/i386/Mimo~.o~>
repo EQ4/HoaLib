@@ -1,0 +1,6 @@
+In file included from /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/Mimo~.c:14:
+/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/HoaDistance.h:21:1: warning: "PI" redefined
+In file included from /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/Mimo~.c:11:
+/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/msp-includes/z_dsp.h:167:1: warning: this is the location of the previous definition
+/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/SignalProc.h:14: warning: 'class SignalProc' has virtual functions but non-virtual destructor
+/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/FftConvolution.h:17: warning: 'class FftConvolution' has virtual functions but non-virtual destructor

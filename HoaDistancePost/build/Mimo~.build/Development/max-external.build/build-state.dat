@@ -1,0 +1,839 @@
+Tmax-external
+v7
+r0
+t350314347.250395
+cCheck dependencies
+cProcessInfoPlistFile /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../sdk-build/usr/local/bin/Mimo~.mxo/Contents/Info.plist /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../Info.plist
+cSymLink /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Development/Mimo~.mxo /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../sdk-build/usr/local/bin/Mimo~.mxo
+cCompileC build/Mimo~.build/Development/max-external.build/Objects-normal/x86_64/Mimo~.o /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/Mimo~.c normal x86_64 c++ com.apple.compilers.gcc.4_0
+cCompileC build/Mimo~.build/Development/max-external.build/Objects-normal/x86_64/FftConvolution.o /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/FftConvolution.cpp normal x86_64 c++ com.apple.compilers.gcc.4_0
+cCompileC build/Mimo~.build/Development/max-external.build/Objects-normal/x86_64/HoaDistance.o /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/HoaDistance.cpp normal x86_64 c++ com.apple.compilers.gcc.4_0
+cCompileC build/Mimo~.build/Development/max-external.build/Objects-normal/x86_64/SignalProc.o /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/SignalProc.cpp normal x86_64 c++ com.apple.compilers.gcc.4_0
+cCompileC build/Mimo~.build/Development/max-external.build/Objects-normal/x86_64/SignalVec.o /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/SignalVec.cpp normal x86_64 c++ com.apple.compilers.gcc.4_0
+cLd /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Mimo~.build/Development/max-external.build/Objects-normal/x86_64/Mimo~ normal x86_64
+cCompileC build/Mimo~.build/Development/max-external.build/Objects-normal/i386/Mimo~.o /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/Mimo~.c normal i386 c++ com.apple.compilers.gcc.4_0
+cCompileC build/Mimo~.build/Development/max-external.build/Objects-normal/i386/FftConvolution.o /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/FftConvolution.cpp normal i386 c++ com.apple.compilers.gcc.4_0
+cCompileC build/Mimo~.build/Development/max-external.build/Objects-normal/i386/HoaDistance.o /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/HoaDistance.cpp normal i386 c++ com.apple.compilers.gcc.4_0
+cCompileC build/Mimo~.build/Development/max-external.build/Objects-normal/i386/SignalProc.o /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/SignalProc.cpp normal i386 c++ com.apple.compilers.gcc.4_0
+cCompileC build/Mimo~.build/Development/max-external.build/Objects-normal/i386/SignalVec.o /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/SignalVec.cpp normal i386 c++ com.apple.compilers.gcc.4_0
+cLd /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Mimo~.build/Development/max-external.build/Objects-normal/i386/Mimo~ normal i386
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004EEDE6EC00000000000000EE
+t1324213996
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/Developer/Headers/FlatCarbon/Controls.h
+c000000004A119632000000000000001B
+t1242666546
+s27
+
+N/Developer/SDKs/MacOSX10.6.sdk/Developer/Headers/FlatCarbon/Files.h
+c000000004A1196320000000000000027
+t1242666546
+s39
+
+N/Developer/SDKs/MacOSX10.6.sdk/Developer/Headers/FlatCarbon/MacTypes.h
+c000000004A1196320000000000000027
+t1242666546
+s39
+
+N/Developer/SDKs/MacOSX10.6.sdk/Developer/Headers/FlatCarbon/QTML.h
+c000000004A119632000000000000002D
+t1242666546
+s45
+
+N/Developer/SDKs/MacOSX10.6.sdk/Developer/Headers/FlatCarbon/Quickdraw.h
+c000000004A1196320000000000000035
+t1242666546
+s53
+
+N/Developer/SDKs/MacOSX10.6.sdk/Developer/Headers/FlatCarbon/Types.h
+c000000004A1196320000000000000027
+t1242666546
+s39
+
+N/Developer/SDKs/MacOSX10.6.sdk/Developer/Headers/FlatCarbon/Windows.h
+c000000004A119632000000000000001B
+t1242666546
+s27
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h
+c000000004CC41EA700000000000005FF
+t1287921319
+s1535
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/QuickTime.framework/Headers/QuickTime.h
+c000000004CC420410000000000000659
+t1287921729
+s1625
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/assert.h
+c000000004BBD2CE90000000000000DCB
+t1270689001
+s3531
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/ctype.h
+c000000004BBD2CE90000000000002C18
+t1270689001
+s11288
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/math.h
+c000000004A5C14A000000000000004F1
+t1247548576
+s1265
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/setjmp.h
+c000000004BBD2CE90000000000000438
+t1270689001
+s1080
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004BBD2CE90000000000004174
+t1270689001
+s16756
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdlib.h
+c000000004BBD2CE90000000000002DF5
+t1270689001
+s11765
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/string.h
+c000000004BBD2CE90000000000001731
+t1270689001
+s5937
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/sys/types.h
+c000000004CC3DE680000000000002905
+t1287904872
+s10501
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/lib/gcc/i686-apple-darwin10/4.0.1/include/stdarg.h
+c000000004CC3D39D00000000000010D9
+t1287902109
+s4313
+
+N/Developer/flext/MaxSDK-5.1.7/c74support/max-includes/commonsyms.h
+c000000004D3ED322000000000001CD3A
+t1295962914
+s118074
+
+N/Developer/flext/MaxSDK-5.1.7/c74support/max-includes/ext.h
+c000000004D3ED32200000000000003FC
+t1295962914
+s1020
+i"ext_prefix.h"
+i"ext_mess.h"
+i"ext_types.h"
+i"ext_maxtypes.h"
+i"ext_byteorder.h"
+i"ext_proto.h"
+
+N/Developer/flext/MaxSDK-5.1.7/c74support/max-includes/ext_atomarray.h
+c000000004D3ED3220000000000001DD8
+t1295962914
+s7640
+
+N/Developer/flext/MaxSDK-5.1.7/c74support/max-includes/ext_byteorder.h
+c000000004D3ED32200000000000022DD
+t1295962914
+s8925
+
+N/Developer/flext/MaxSDK-5.1.7/c74support/max-includes/ext_dictionary.h
+c000000004D3ED32200000000000070CC
+t1295962914
+s28876
+
+N/Developer/flext/MaxSDK-5.1.7/c74support/max-includes/ext_expr.h
+c000000004D3ED32200000000000012CA
+t1295962914
+s4810
+
+N/Developer/flext/MaxSDK-5.1.7/c74support/max-includes/ext_hashtab.h
+c000000004D3ED322000000000000311E
+t1295962914
+s12574
+
+N/Developer/flext/MaxSDK-5.1.7/c74support/max-includes/ext_linklist.h
+c000000004D3ED32200000000000050B4
+t1295962914
+s20660
+
+N/Developer/flext/MaxSDK-5.1.7/c74support/max-includes/ext_maxtypes.h
+c000000004D3ED32200000000000009C0
+t1295962914
+s2496
+
+N/Developer/flext/MaxSDK-5.1.7/c74support/max-includes/ext_mess.h
+c000000004D3ED3220000000000002991
+t1295962914
+s10641
+
+N/Developer/flext/MaxSDK-5.1.7/c74support/max-includes/ext_obex.h
+c000000004D3ED3220000000000014F96
+t1295962914
+s85910
+i"commonsyms.h"
+i"ext_linklist.h"
+i"ext_hashtab.h"
+i"ext_atomarray.h"
+i"ext_obex_util.h"
+i"ext_dictionary.h"
+i"ext_obstring.h"
+
+N/Developer/flext/MaxSDK-5.1.7/c74support/max-includes/ext_obex_util.h
+c000000004D3ED3220000000000019853
+t1295962914
+s104531
+
+N/Developer/flext/MaxSDK-5.1.7/c74support/max-includes/ext_obstring.h
+c000000004D3ED32200000000000004F4
+t1295962914
+s1268
+
+N/Developer/flext/MaxSDK-5.1.7/c74support/max-includes/ext_path.h
+c000000004D3ED32200000000000063C7
+t1295962914
+s25543
+i<Files.h>
+
+N/Developer/flext/MaxSDK-5.1.7/c74support/max-includes/ext_prefix.h
+c000000004D3ED3220000000000001655
+t1295962914
+s5717
+i<MacTypes.h>
+i<sys/types.h>
+i<stdio.h>
+i<stdlib.h>
+i<stdarg.h>
+i<ctype.h>
+i<math.h>
+i<string.h>
+i<setjmp.h>
+i<assert.h>
+i<windows.h>
+i<richedit.h>
+i<commctrl.h>
+i"ext_prefix_win.h"
+i"qtml.h"
+
+N/Developer/flext/MaxSDK-5.1.7/c74support/max-includes/ext_proto.h
+c000000004D3ED3220000000000012613
+t1295962914
+s75283
+i"ext_types.h"
+i"ext_maxtypes.h"
+i"ext_sysmem.h"
+i"ext_sysfile.h"
+i"ext_systime.h"
+i"ext_expr.h"
+i"ext_path.h"
+i"ext_qtimage.h"
+i"ext_wind.h"
+i"ext_proto_win.h"
+
+N/Developer/flext/MaxSDK-5.1.7/c74support/max-includes/ext_proto_win.h
+c000000004D3ED3220000000000000247
+t1295962914
+s583
+
+N/Developer/flext/MaxSDK-5.1.7/c74support/max-includes/ext_qtimage.h
+c000000004D3ED32200000000000005E7
+t1295962914
+s1511
+
+N/Developer/flext/MaxSDK-5.1.7/c74support/max-includes/ext_sysfile.h
+c000000004D3ED3220000000000002277
+t1295962914
+s8823
+
+N/Developer/flext/MaxSDK-5.1.7/c74support/max-includes/ext_sysmem.h
+c000000004D3ED32200000000000016E4
+t1295962914
+s5860
+
+N/Developer/flext/MaxSDK-5.1.7/c74support/max-includes/ext_systhread.h
+c000000004D3ED3220000000000001B8D
+t1295962914
+s7053
+
+N/Developer/flext/MaxSDK-5.1.7/c74support/max-includes/ext_systime.h
+c000000004D3ED3220000000000000C29
+t1295962914
+s3113
+
+N/Developer/flext/MaxSDK-5.1.7/c74support/max-includes/ext_types.h
+c000000004D3ED322000000000000135F
+t1295962914
+s4959
+i<Types.h>
+i<Quickdraw.h>
+i<MacTypes.h>
+i<Quickdraw.h>
+i<Controls.h>
+
+N/Developer/flext/MaxSDK-5.1.7/c74support/max-includes/ext_wind.h
+c000000004D3ED3220000000000000683
+t1295962914
+s1667
+
+N/Developer/flext/MaxSDK-5.1.7/c74support/msp-includes/z_dsp.h
+c000000004D3ED3240000000000003984
+t1295962916
+s14724
+i"ext_systhread.h"
+
+N/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/max-includes/MaxAPI.framework/MaxAPI
+c000000004D3ED32200000000000FEE48
+t1295962914
+s1044040
+
+N/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/max-includes/macho-prefix.pch
+c000000004EF5055500000000000000A4
+t1324680533
+s164
+i<Carbon/Carbon.h>
+i<QuickTime/QuickTime.h>
+
+N/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/msp-includes/MaxAudioAPI.framework/MaxAudioAPI
+c000000004D3ED3240000000000068E9C
+t1295962916
+s429724
+
+N/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../sdk-build/Mimo~.mxo
+t1328377156
+s102
+
+N/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../sdk-build/Mimo~.mxo/Contents/Info.plist
+t1328377120
+s1203
+
+N/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../sdk-build/Mimo~.mxo/Contents/MacOS/Mimo~
+t1328377156
+s39576
+
+N/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../sdk-build/Mimo~.mxo/Contents/PkgInfo
+t1328377120
+s8
+
+N/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../sdk-build/usr/local/bin/Mimo~.mxo
+t1328621522
+s102
+
+N/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../sdk-build/usr/local/bin/Mimo~.mxo/Contents/Info.plist
+t1328621522
+s1203
+
+N/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../sdk-build/usr/local/bin/Mimo~.mxo/Contents/MacOS/Mimo~
+t2
+s0
+
+N/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../sdk-build/usr/local/bin/Mimo~.mxo/Contents/PkgInfo
+t1328621522
+s8
+
+N/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../Info.plist
+c000000004D3ED32000000000000003CB
+t1295962912
+s971
+
+N/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/FftConvolution.cpp
+c000000004F30389600000000000007E8
+t1328560278
+s2024
+i"FftConvolution.h"
+
+N/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/FftConvolution.h
+c000000004F2FE3280000000000000332
+t1328538408
+s818
+i"SignalProc.h"
+i"SignalVec.h"
+
+N/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/HoaDistance.cpp
+c000000004F311F2A0000000000000D66
+t1328619306
+s3430
+i"HoaDistance.h"
+
+N/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/HoaDistance.h
+c000000004F3127D200000000000003EA
+t1328621522
+s1002
+i<stdio.h>
+i<iostream>
+i<complex>
+i"MiscMath.h"
+i"SignalVec.h"
+i"FftConvolution.h"
+
+N/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/Mimo~.c
+c000000004F3123F10000000000000BCB
+t1328620529
+s3019
+i"ext.h"
+i"ext_obex.h"
+i"z_dsp.h"
+i<HoaDistance.h>
+
+N/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/MiscMath.h
+c000000004F311C0D00000000000001FC
+t1328618509
+s508
+i"math.h"
+
+N/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/SignalProc.cpp
+c000000004F10330A0000000000000182
+t1326461706
+s386
+i"SignalProc.h"
+
+N/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/SignalProc.h
+c000000004F2FE4960000000000000190
+t1328538774
+s400
+
+N/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/SignalVec.cpp
+c000000004F18BD570000000000001116
+t1327021399
+s4374
+i"SignalVec.h"
+
+N/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/SignalVec.h
+c000000004F311BA1000000000000058C
+t1328618401
+s1420
+i<stdio.h>
+i<iostream>
+i<string>
+i<fftw3.h>
+i<math.h>
+
+N/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Development/Mimo~.mxo
+t3
+s76
+
+N/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Mimo~.build/Development/max-external.build/Objects-normal/i386/FftConvolution.o
+t1328621541
+s46064
+
+N/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Mimo~.build/Development/max-external.build/Objects-normal/i386/HoaDistance.o
+t1328621542
+s57844
+
+N/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Mimo~.build/Development/max-external.build/Objects-normal/i386/Mimo~
+t1328621543
+s1687344
+
+N/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Mimo~.build/Development/max-external.build/Objects-normal/i386/Mimo~.LinkFileList
+c000000004F311C050000000000000298
+t1328618501
+s664
+
+N/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Mimo~.build/Development/max-external.build/Objects-normal/i386/Mimo~.o
+t1328621541
+s23308
+
+N/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Mimo~.build/Development/max-external.build/Objects-normal/i386/SignalProc.o
+t1328619309
+s5460
+
+N/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Mimo~.build/Development/max-external.build/Objects-normal/i386/SignalVec.o
+t1328621543
+s48616
+
+N/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Mimo~.build/Development/max-external.build/Objects-normal/x86_64/FftConvolution.o
+t1328621538
+s47632
+
+N/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Mimo~.build/Development/max-external.build/Objects-normal/x86_64/HoaDistance.o
+t1328621540
+s59648
+
+N/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Mimo~.build/Development/max-external.build/Objects-normal/x86_64/Mimo~
+t2
+s0
+
+N/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Mimo~.build/Development/max-external.build/Objects-normal/x86_64/Mimo~.LinkFileList
+c000000004F311FCA00000000000002A2
+t1328619466
+s674
+
+N/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Mimo~.build/Development/max-external.build/Objects-normal/x86_64/Mimo~.o
+t1328621538
+s24188
+
+N/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Mimo~.build/Development/max-external.build/Objects-normal/x86_64/SignalProc.o
+t1328619468
+s6340
+
+N/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Mimo~.build/Development/max-external.build/Objects-normal/x86_64/SignalVec.o
+t1328621540
+s51164
+
+N/usr/local/include/fftw3.h
+c000000004F31276D0000000000004511
+t1328621421
+s17681
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies350314347#350314347#0(0"0(0#1#0"8607410080#0"0#
+
+CCompileC build/Mimo~.build/Development/max-external.build/Objects-normal/i386/FftConvolution.o /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/FftConvolution.cpp normal i386 c++ com.apple.compilers.gcc.4_0
+s350314340.183842
+e350314341.522772
+r1
+xCompileC
+xbuild/Mimo~.build/Development/max-external.build/Objects-normal/i386/FftConvolution.o
+x/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/FftConvolution.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_0
+o/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/SignalProc.h:14: warning: 'class SignalProc' has virtual functions but non-virtual destructor
+o/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/FftConvolution.h:17: warning: 'class FftConvolution' has virtual functions but non-virtual destructor
+lSLF07#2@77"Compile /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/FftConvolution.cpp350314340#350314341#0(298"/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/SignalProc.h:14: warning: 'class SignalProc' has virtual functions but non-virtual destructor/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/FftConvolution.h:17: warning: 'class FftConvolution' has virtual functions but non-virtual destructor2(22@67"'class SignalProc' has virtual functions but non-virtual destructor350314341#0#145#0(6@63"/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/SignalProc.h350231574#14#0#14#0#0"0(22@71"'class FftConvolution' has virtual functions but non-virtual destructor350314341#145#153#0(6@67"/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/FftConvolution.h350231208#17#0#17#0#0"0(0#0#69"/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/FftConvolution.cpp8608213952#1892"    cd /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility-inlines-hidden -mmacosx-version-min=10.4 -gdwarf-2 -I/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Mimo~.build/Development/max-external.build/Mimo~.hmap -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Development -F/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/max-includes -F/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/msp-includes -F/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/jit-includes -F/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/msp-includes -I/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Development/include -I/Developer/SDKs/MacOSX10.6.sdk/Developer/Headers/FlatCarbon -I/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/max-includes -I/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/msp-includes -I/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/jit-includes -I/Developer/usr/local/boost_1_48_0 -I/usr/local/include -I/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Mimo~.build/Development/max-external.build/DerivedSources/i386 -I/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Mimo~.build/Development/max-external.build/DerivedSources -include /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/max-includes/macho-prefix.pch -c /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/FftConvolution.cpp -o /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Mimo~.build/Development/max-external.build/Objects-normal/i386/FftConvolution.o0#
+
+CCompileC build/Mimo~.build/Development/max-external.build/Objects-normal/i386/HoaDistance.o /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/HoaDistance.cpp normal i386 c++ com.apple.compilers.gcc.4_0
+s350314341.522870
+e350314342.983197
+r1
+xCompileC
+xbuild/Mimo~.build/Development/max-external.build/Objects-normal/i386/HoaDistance.o
+x/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/HoaDistance.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_0
+o/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/SignalProc.h:14: warning: 'class SignalProc' has virtual functions but non-virtual destructor
+o/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/FftConvolution.h:17: warning: 'class FftConvolution' has virtual functions but non-virtual destructor
+lSLF07#2@74"Compile /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/HoaDistance.cpp350314341#350314342#0(298"/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/SignalProc.h:14: warning: 'class SignalProc' has virtual functions but non-virtual destructor/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/FftConvolution.h:17: warning: 'class FftConvolution' has virtual functions but non-virtual destructor2(22@67"'class SignalProc' has virtual functions but non-virtual destructor350314342#0#145#0(6@63"/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/SignalProc.h350231574#14#0#14#0#0"0(22@71"'class FftConvolution' has virtual functions but non-virtual destructor350314342#145#153#0(6@67"/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/FftConvolution.h350231208#17#0#17#0#0"0(0#0#66"/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/HoaDistance.cpp8606110208#1886"    cd /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility-inlines-hidden -mmacosx-version-min=10.4 -gdwarf-2 -I/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Mimo~.build/Development/max-external.build/Mimo~.hmap -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Development -F/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/max-includes -F/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/msp-includes -F/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/jit-includes -F/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/msp-includes -I/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Development/include -I/Developer/SDKs/MacOSX10.6.sdk/Developer/Headers/FlatCarbon -I/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/max-includes -I/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/msp-includes -I/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/jit-includes -I/Developer/usr/local/boost_1_48_0 -I/usr/local/include -I/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Mimo~.build/Development/max-external.build/DerivedSources/i386 -I/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Mimo~.build/Development/max-external.build/DerivedSources -include /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/max-includes/macho-prefix.pch -c /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/HoaDistance.cpp -o /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Mimo~.build/Development/max-external.build/Objects-normal/i386/HoaDistance.o0#
+
+CCompileC build/Mimo~.build/Development/max-external.build/Objects-normal/i386/Mimo~.o /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/Mimo~.c normal i386 c++ com.apple.compilers.gcc.4_0
+s350314340.123215
+e350314341.629054
+r1
+xCompileC
+xbuild/Mimo~.build/Development/max-external.build/Objects-normal/i386/Mimo~.o
+x/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/Mimo~.c
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_0
+oIn file included from /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/Mimo~.c:14:
+o/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/HoaDistance.h:21:1: warning: "PI" redefined
+oIn file included from /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/Mimo~.c:11:
+o/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/msp-includes/z_dsp.h:167:1: warning: this is the location of the previous definition
+o/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/SignalProc.h:14: warning: 'class SignalProc' has virtual functions but non-virtual destructor
+o/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/FftConvolution.h:17: warning: 'class FftConvolution' has virtual functions but non-virtual destructor
+o/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/Mimo~.c: In function 't_int* Mimo_perform(t_int*)':
+o/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/Mimo~.c:87: warning: unused variable 'in'
+o/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/Mimo~.c:88: warning: unused variable 'out'
+o/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/Mimo~.c:92: warning: unused variable 'tempValue'
+o/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/Mimo~.c: In function 'void* Mimo_new(t_symbol*, long int, t_atom*)':
+o/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/Mimo~.c:132: warning: unused variable 'orderNumber'
+lSLF07#2@66"Compile /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/Mimo~.c350314340#350314341#0(1329"In file included from /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/Mimo~.c:14:/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/HoaDistance.h:21:1: warning: "PI" redefinedIn file included from /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/Mimo~.c:11:/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/msp-includes/z_dsp.h:167:1: warning: this is the location of the previous definition/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/SignalProc.h:14: warning: 'class SignalProc' has virtual functions but non-virtual destructor/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/FftConvolution.h:17: warning: 'class FftConvolution' has virtual functions but non-virtual destructor/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/Mimo~.c: In function 't_int* Mimo_perform(t_int*)':/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/Mimo~.c:87: warning: unused variable 'in'/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/Mimo~.c:88: warning: unused variable 'out'/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/Mimo~.c:92: warning: unused variable 'tempValue'/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/Mimo~.c: In function 'void* Mimo_new(t_symbol*, long int, t_atom*)':/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/Mimo~.c:132: warning: unused variable 'orderNumber'8(22@14""PI" redefined350314340#85#95#2(7@80"In file included from /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/Mimo~.c350314340#18446744073709551615#0#0(6@58"/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/Mimo~.c350313329#14#0#14#0#0"0(13@82""PI" redefined in /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/HoaDistance.h350314340#18446744073709551615#0#0(6@64"/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/HoaDistance.h350314322#21#0#21#0#0"0(6@64"/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/HoaDistance.h350314322#21#0#21#0#13""*" redefined0(22@47"This is the location of the previous definition350314340#265#153#2(7@80"In file included from /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/Mimo~.c350314340#18446744073709551615#0#0(6@58"/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/Mimo~.c350313329#11#0#11#0#0"0(13@139"This is the location of the previous definition in /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/msp-includes/z_dsp.h350314340#18446744073709551615#0#0(6@88"/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/msp-includes/z_dsp.h317655716#167#0#167#0#0"0(6@88"/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/msp-includes/z_dsp.h317655716#167#0#167#0#47"this is the location of the previous definition0(22@67"'class SignalProc' has virtual functions but non-virtual destructor350314341#418#145#0(6@63"/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/SignalProc.h350231574#14#0#14#0#0"0(22@71"'class FftConvolution' has virtual functions but non-virtual destructor350314341#563#153#0(6@67"/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/FftConvolution.h350231208#17#0#17#0#0"0(22@20"Unused variable 'in'350314341#819#93#0(6@58"/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/Mimo~.c350313329#87#0#87#0#19"unused variable '*'0(22@21"Unused variable 'out'350314341#912#94#0(6@58"/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/Mimo~.c350313329#88#0#88#0#19"unused variable '*'0(22@27"Unused variable 'tempValue'350314341#1006#100#0(6@58"/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/Mimo~.c350313329#92#0#92#0#19"unused variable '*'0(22@29"Unused variable 'orderNumber'350314341#1226#103#0(6@58"/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/Mimo~.c350313329#132#0#132#0#19"unused variable '*'0(0#0#58"/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/Mimo~.c8607303680#1872"    cd /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility-inlines-hidden -mmacosx-version-min=10.4 -gdwarf-2 -I/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Mimo~.build/Development/max-external.build/Mimo~.hmap -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Development -F/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/max-includes -F/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/msp-includes -F/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/jit-includes -F/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/msp-includes -I/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Development/include -I/Developer/SDKs/MacOSX10.6.sdk/Developer/Headers/FlatCarbon -I/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/max-includes -I/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/msp-includes -I/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/jit-includes -I/Developer/usr/local/boost_1_48_0 -I/usr/local/include -I/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Mimo~.build/Development/max-external.build/DerivedSources/i386 -I/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Mimo~.build/Development/max-external.build/DerivedSources -include /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/max-includes/macho-prefix.pch -c /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/Mimo~.c -o /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Mimo~.build/Development/max-external.build/Objects-normal/i386/Mimo~.o0#
+
+CCompileC build/Mimo~.build/Development/max-external.build/Objects-normal/i386/SignalProc.o /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/SignalProc.cpp normal i386 c++ com.apple.compilers.gcc.4_0
+s350312108.909117
+e350312110.009905
+r1
+xCompileC
+xbuild/Mimo~.build/Development/max-external.build/Objects-normal/i386/SignalProc.o
+x/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/SignalProc.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_0
+o/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/SignalProc.h:14: warning: 'class SignalProc' has virtual functions but non-virtual destructor
+lSLF07#2@73"Compile /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/SignalProc.cpp350312108#350312110#0(145"/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/SignalProc.h:14: warning: 'class SignalProc' has virtual functions but non-virtual destructor1(22@67"'class SignalProc' has virtual functions but non-virtual destructor350312109#0#145#0(6@63"/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/SignalProc.h350231574#14#0#14#0#0"0(0#0#65"/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/SignalProc.cpp8619244064#1884"    cd /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility-inlines-hidden -mmacosx-version-min=10.4 -gdwarf-2 -I/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Mimo~.build/Development/max-external.build/Mimo~.hmap -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Development -F/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/max-includes -F/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/msp-includes -F/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/jit-includes -F/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/msp-includes -I/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Development/include -I/Developer/SDKs/MacOSX10.6.sdk/Developer/Headers/FlatCarbon -I/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/max-includes -I/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/msp-includes -I/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/jit-includes -I/Developer/usr/local/boost_1_48_0 -I/usr/local/include -I/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Mimo~.build/Development/max-external.build/DerivedSources/i386 -I/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Mimo~.build/Development/max-external.build/DerivedSources -include /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/max-includes/macho-prefix.pch -c /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/SignalProc.cpp -o /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Mimo~.build/Development/max-external.build/Objects-normal/i386/SignalProc.o0#
+
+CCompileC build/Mimo~.build/Development/max-external.build/Objects-normal/i386/SignalVec.o /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/SignalVec.cpp normal i386 c++ com.apple.compilers.gcc.4_0
+s350314341.629350
+e350314343.023033
+r1
+xCompileC
+xbuild/Mimo~.build/Development/max-external.build/Objects-normal/i386/SignalVec.o
+x/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/SignalVec.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@72"Compile /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/SignalVec.cpp350314341#350314343#0(0"0(0#0#64"/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/SignalVec.cpp8608600640#1882"    cd /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility-inlines-hidden -mmacosx-version-min=10.4 -gdwarf-2 -I/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Mimo~.build/Development/max-external.build/Mimo~.hmap -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Development -F/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/max-includes -F/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/msp-includes -F/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/jit-includes -F/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/msp-includes -I/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Development/include -I/Developer/SDKs/MacOSX10.6.sdk/Developer/Headers/FlatCarbon -I/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/max-includes -I/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/msp-includes -I/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/jit-includes -I/Developer/usr/local/boost_1_48_0 -I/usr/local/include -I/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Mimo~.build/Development/max-external.build/DerivedSources/i386 -I/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Mimo~.build/Development/max-external.build/DerivedSources -include /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/max-includes/macho-prefix.pch -c /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/SignalVec.cpp -o /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Mimo~.build/Development/max-external.build/Objects-normal/i386/SignalVec.o0#
+
+CCompileC build/Mimo~.build/Development/max-external.build/Objects-normal/x86_64/FftConvolution.o /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/FftConvolution.cpp normal x86_64 c++ com.apple.compilers.gcc.4_0
+s350314337.678548
+e350314338.919768
+r1
+xCompileC
+xbuild/Mimo~.build/Development/max-external.build/Objects-normal/x86_64/FftConvolution.o
+x/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/FftConvolution.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_0
+o/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/SignalProc.h:14: warning: 'class SignalProc' has virtual functions but non-virtual destructor
+o/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/FftConvolution.h:17: warning: 'class FftConvolution' has virtual functions but non-virtual destructor
+lSLF07#2@77"Compile /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/FftConvolution.cpp350314337#350314338#0(298"/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/SignalProc.h:14: warning: 'class SignalProc' has virtual functions but non-virtual destructor/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/FftConvolution.h:17: warning: 'class FftConvolution' has virtual functions but non-virtual destructor2(22@67"'class SignalProc' has virtual functions but non-virtual destructor350314338#0#145#0(6@63"/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/SignalProc.h350231574#14#0#14#0#0"0(22@71"'class FftConvolution' has virtual functions but non-virtual destructor350314338#145#153#0(6@67"/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/FftConvolution.h350231208#17#0#17#0#0"0(0#0#69"/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/FftConvolution.cpp8606303936#1898"    cd /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility-inlines-hidden -mmacosx-version-min=10.4 -gdwarf-2 -I/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Mimo~.build/Development/max-external.build/Mimo~.hmap -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Development -F/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/max-includes -F/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/msp-includes -F/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/jit-includes -F/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/msp-includes -I/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Development/include -I/Developer/SDKs/MacOSX10.6.sdk/Developer/Headers/FlatCarbon -I/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/max-includes -I/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/msp-includes -I/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/jit-includes -I/Developer/usr/local/boost_1_48_0 -I/usr/local/include -I/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Mimo~.build/Development/max-external.build/DerivedSources/x86_64 -I/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Mimo~.build/Development/max-external.build/DerivedSources -include /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/max-includes/macho-prefix.pch -c /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/FftConvolution.cpp -o /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Mimo~.build/Development/max-external.build/Objects-normal/x86_64/FftConvolution.o0#
+
+CCompileC build/Mimo~.build/Development/max-external.build/Objects-normal/x86_64/HoaDistance.o /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/HoaDistance.cpp normal x86_64 c++ com.apple.compilers.gcc.4_0
+s350314338.919862
+e350314340.123061
+r1
+xCompileC
+xbuild/Mimo~.build/Development/max-external.build/Objects-normal/x86_64/HoaDistance.o
+x/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/HoaDistance.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_0
+o/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/SignalProc.h:14: warning: 'class SignalProc' has virtual functions but non-virtual destructor
+o/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/FftConvolution.h:17: warning: 'class FftConvolution' has virtual functions but non-virtual destructor
+lSLF07#2@74"Compile /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/HoaDistance.cpp350314338#350314340#0(298"/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/SignalProc.h:14: warning: 'class SignalProc' has virtual functions but non-virtual destructor/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/FftConvolution.h:17: warning: 'class FftConvolution' has virtual functions but non-virtual destructor2(22@67"'class SignalProc' has virtual functions but non-virtual destructor350314340#0#145#0(6@63"/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/SignalProc.h350231574#14#0#14#0#0"0(22@71"'class FftConvolution' has virtual functions but non-virtual destructor350314340#145#153#0(6@67"/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/FftConvolution.h350231208#17#0#17#0#0"0(0#0#66"/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/HoaDistance.cpp8603400448#1892"    cd /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility-inlines-hidden -mmacosx-version-min=10.4 -gdwarf-2 -I/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Mimo~.build/Development/max-external.build/Mimo~.hmap -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Development -F/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/max-includes -F/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/msp-includes -F/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/jit-includes -F/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/msp-includes -I/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Development/include -I/Developer/SDKs/MacOSX10.6.sdk/Developer/Headers/FlatCarbon -I/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/max-includes -I/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/msp-includes -I/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/jit-includes -I/Developer/usr/local/boost_1_48_0 -I/usr/local/include -I/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Mimo~.build/Development/max-external.build/DerivedSources/x86_64 -I/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Mimo~.build/Development/max-external.build/DerivedSources -include /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/max-includes/macho-prefix.pch -c /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/HoaDistance.cpp -o /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Mimo~.build/Development/max-external.build/Objects-normal/x86_64/HoaDistance.o0#
+
+CCompileC build/Mimo~.build/Development/max-external.build/Objects-normal/x86_64/Mimo~.o /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/Mimo~.c normal x86_64 c++ com.apple.compilers.gcc.4_0
+s350314337.677584
+e350314338.987464
+r1
+xCompileC
+xbuild/Mimo~.build/Development/max-external.build/Objects-normal/x86_64/Mimo~.o
+x/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/Mimo~.c
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_0
+oIn file included from /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/Mimo~.c:14:
+o/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/HoaDistance.h:21:1: warning: "PI" redefined
+oIn file included from /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/Mimo~.c:11:
+o/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/msp-includes/z_dsp.h:167:1: warning: this is the location of the previous definition
+o/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/SignalProc.h:14: warning: 'class SignalProc' has virtual functions but non-virtual destructor
+o/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/FftConvolution.h:17: warning: 'class FftConvolution' has virtual functions but non-virtual destructor
+o/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/Mimo~.c: In function 't_int* Mimo_perform(t_int*)':
+o/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/Mimo~.c:87: warning: unused variable 'in'
+o/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/Mimo~.c:88: warning: unused variable 'out'
+o/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/Mimo~.c:92: warning: unused variable 'tempValue'
+o/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/Mimo~.c: In function 'void* Mimo_new(t_symbol*, long int, t_atom*)':
+o/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/Mimo~.c:132: warning: unused variable 'orderNumber'
+lSLF07#2@66"Compile /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/Mimo~.c350314337#350314338#0(1329"In file included from /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/Mimo~.c:14:/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/HoaDistance.h:21:1: warning: "PI" redefinedIn file included from /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/Mimo~.c:11:/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/msp-includes/z_dsp.h:167:1: warning: this is the location of the previous definition/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/SignalProc.h:14: warning: 'class SignalProc' has virtual functions but non-virtual destructor/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/FftConvolution.h:17: warning: 'class FftConvolution' has virtual functions but non-virtual destructor/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/Mimo~.c: In function 't_int* Mimo_perform(t_int*)':/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/Mimo~.c:87: warning: unused variable 'in'/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/Mimo~.c:88: warning: unused variable 'out'/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/Mimo~.c:92: warning: unused variable 'tempValue'/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/Mimo~.c: In function 'void* Mimo_new(t_symbol*, long int, t_atom*)':/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/Mimo~.c:132: warning: unused variable 'orderNumber'8(22@14""PI" redefined350314338#85#95#2(7@80"In file included from /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/Mimo~.c350314338#18446744073709551615#0#0(6@58"/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/Mimo~.c350313329#14#0#14#0#0"0(13@82""PI" redefined in /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/HoaDistance.h350314338#18446744073709551615#0#0(6@64"/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/HoaDistance.h350314322#21#0#21#0#0"0(6@64"/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/HoaDistance.h350314322#21#0#21#0#13""*" redefined0(22@47"This is the location of the previous definition350314338#265#153#2(7@80"In file included from /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/Mimo~.c350314338#18446744073709551615#0#0(6@58"/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/Mimo~.c350313329#11#0#11#0#0"0(13@139"This is the location of the previous definition in /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/msp-includes/z_dsp.h350314338#18446744073709551615#0#0(6@88"/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/msp-includes/z_dsp.h317655716#167#0#167#0#0"0(6@88"/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/msp-includes/z_dsp.h317655716#167#0#167#0#47"this is the location of the previous definition0(22@67"'class SignalProc' has virtual functions but non-virtual destructor350314338#418#145#0(6@63"/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/SignalProc.h350231574#14#0#14#0#0"0(22@71"'class FftConvolution' has virtual functions but non-virtual destructor350314338#563#153#0(6@67"/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/FftConvolution.h350231208#17#0#17#0#0"0(22@20"Unused variable 'in'350314338#819#93#0(6@58"/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/Mimo~.c350313329#87#0#87#0#19"unused variable '*'0(22@21"Unused variable 'out'350314338#912#94#0(6@58"/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/Mimo~.c350313329#88#0#88#0#19"unused variable '*'0(22@27"Unused variable 'tempValue'350314338#1006#100#0(6@58"/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/Mimo~.c350313329#92#0#92#0#19"unused variable '*'0(22@29"Unused variable 'orderNumber'350314338#1226#103#0(6@58"/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/Mimo~.c350313329#132#0#132#0#19"unused variable '*'0(0#0#58"/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/Mimo~.c8603335584#1878"    cd /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility-inlines-hidden -mmacosx-version-min=10.4 -gdwarf-2 -I/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Mimo~.build/Development/max-external.build/Mimo~.hmap -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Development -F/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/max-includes -F/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/msp-includes -F/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/jit-includes -F/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/msp-includes -I/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Development/include -I/Developer/SDKs/MacOSX10.6.sdk/Developer/Headers/FlatCarbon -I/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/max-includes -I/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/msp-includes -I/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/jit-includes -I/Developer/usr/local/boost_1_48_0 -I/usr/local/include -I/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Mimo~.build/Development/max-external.build/DerivedSources/x86_64 -I/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Mimo~.build/Development/max-external.build/DerivedSources -include /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/max-includes/macho-prefix.pch -c /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/Mimo~.c -o /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Mimo~.build/Development/max-external.build/Objects-normal/x86_64/Mimo~.o0#
+
+CCompileC build/Mimo~.build/Development/max-external.build/Objects-normal/x86_64/SignalProc.o /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/SignalProc.cpp normal x86_64 c++ com.apple.compilers.gcc.4_0
+s350312267.808496
+e350312268.670397
+r1
+xCompileC
+xbuild/Mimo~.build/Development/max-external.build/Objects-normal/x86_64/SignalProc.o
+x/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/SignalProc.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_0
+o/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/SignalProc.h:14: warning: 'class SignalProc' has virtual functions but non-virtual destructor
+lSLF07#2@73"Compile /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/SignalProc.cpp350312267#350312268#0(145"/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/SignalProc.h:14: warning: 'class SignalProc' has virtual functions but non-virtual destructor1(22@67"'class SignalProc' has virtual functions but non-virtual destructor350312268#0#145#0(6@63"/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/SignalProc.h350231574#14#0#14#0#0"0(0#0#65"/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/SignalProc.cpp8617575872#1890"    cd /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility-inlines-hidden -mmacosx-version-min=10.4 -gdwarf-2 -I/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Mimo~.build/Development/max-external.build/Mimo~.hmap -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Development -F/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/max-includes -F/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/msp-includes -F/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/jit-includes -F/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/msp-includes -I/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Development/include -I/Developer/SDKs/MacOSX10.6.sdk/Developer/Headers/FlatCarbon -I/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/max-includes -I/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/msp-includes -I/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/jit-includes -I/Developer/usr/local/boost_1_48_0 -I/usr/local/include -I/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Mimo~.build/Development/max-external.build/DerivedSources/x86_64 -I/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Mimo~.build/Development/max-external.build/DerivedSources -include /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/max-includes/macho-prefix.pch -c /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/SignalProc.cpp -o /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Mimo~.build/Development/max-external.build/Objects-normal/x86_64/SignalProc.o0#
+
+CCompileC build/Mimo~.build/Development/max-external.build/Objects-normal/x86_64/SignalVec.o /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/SignalVec.cpp normal x86_64 c++ com.apple.compilers.gcc.4_0
+s350314338.987680
+e350314340.150750
+r1
+xCompileC
+xbuild/Mimo~.build/Development/max-external.build/Objects-normal/x86_64/SignalVec.o
+x/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/SignalVec.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@72"Compile /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/SignalVec.cpp350314338#350314340#0(0"0(0#0#64"/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/SignalVec.cpp8611015872#1888"    cd /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility-inlines-hidden -mmacosx-version-min=10.4 -gdwarf-2 -I/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Mimo~.build/Development/max-external.build/Mimo~.hmap -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Development -F/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/max-includes -F/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/msp-includes -F/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/jit-includes -F/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/msp-includes -I/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Development/include -I/Developer/SDKs/MacOSX10.6.sdk/Developer/Headers/FlatCarbon -I/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/max-includes -I/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/msp-includes -I/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/jit-includes -I/Developer/usr/local/boost_1_48_0 -I/usr/local/include -I/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Mimo~.build/Development/max-external.build/DerivedSources/x86_64 -I/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Mimo~.build/Development/max-external.build/DerivedSources -include /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/max-includes/macho-prefix.pch -c /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/SignalVec.cpp -o /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Mimo~.build/Development/max-external.build/Objects-normal/x86_64/SignalVec.o0#
+
+CCreateUniversalBinary /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../sdk-build/usr/local/bin/Mimo~.mxo/Contents/MacOS/Mimo~ normal "x86_64 i386"
+r0
+
+CLd /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../sdk-build/Mimo~.mxo/Contents/MacOS/Mimo~ normal i386
+r0
+
+CLd /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../sdk-build/usr/local/bin/Mimo~.mxo/Contents/MacOS/Mimo~ normal i386
+s350312219.721555
+e350312219.752343
+r0
+xLd
+x/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../sdk-build/usr/local/bin/Mimo~.mxo/Contents/MacOS/Mimo~
+xnormal
+xi386
+old: warning: in /Developer/SDKs/MacOSX10.6.sdk/usr/local/lib/libfftw3.a, file was built for unsupported file format which is not the architecture being linked (i386)
+oUndefined symbols:
+o  "_fftw_plan_r2r_1d", referenced from:
+o      SignalVec::Init(int, std::basic_string<char, std::char_traits<char>, std::allocator<char> >)in SignalVec.o
+o      SignalVec::Init(int, std::basic_string<char, std::char_traits<char>, std::allocator<char> >)in SignalVec.o
+o      SignalVec::SignalVec(int, std::basic_string<char, std::char_traits<char>, std::allocator<char> >)in SignalVec.o
+o      SignalVec::SignalVec(int, std::basic_string<char, std::char_traits<char>, std::allocator<char> >)in SignalVec.o
+o      SignalVec::SignalVec(int, std::basic_string<char, std::char_traits<char>, std::allocator<char> >)in SignalVec.o
+o      SignalVec::SignalVec(int, std::basic_string<char, std::char_traits<char>, std::allocator<char> >)in SignalVec.o
+o  "_fftw_destroy_plan", referenced from:
+o      SignalVec::~SignalVec()in SignalVec.o
+o      SignalVec::~SignalVec()in SignalVec.o
+o      SignalVec::~SignalVec()in SignalVec.o
+o      SignalVec::~SignalVec()in SignalVec.o
+o  "_fftw_execute", referenced from:
+o      SignalVec::fft()     in SignalVec.o
+o      SignalVec::ifft()     in SignalVec.o
+o  "_fftw_free", referenced from:
+o      SignalVec::~SignalVec()in SignalVec.o
+o      SignalVec::~SignalVec()in SignalVec.o
+o  "_fftw_malloc", referenced from:
+o      SignalVec::Init(int, std::basic_string<char, std::char_traits<char>, std::allocator<char> >)in SignalVec.o
+o      SignalVec::SignalVec(int, std::basic_string<char, std::char_traits<char>, std::allocator<char> >)in SignalVec.o
+o      SignalVec::SignalVec(int, std::basic_string<char, std::char_traits<char>, std::allocator<char> >)in SignalVec.o
+old: symbol(s) not found
+ocollect2: ld returned 1 exit status
+lSLF07#2@116"Link /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../sdk-build/usr/local/bin/Mimo~.mxo/Contents/MacOS/Mimo~350312219#350312219#0(1826"ld: warning: in /Developer/SDKs/MacOSX10.6.sdk/usr/local/lib/libfftw3.a, file was built for unsupported file format which is not the architecture being linked (i386)Undefined symbols:  "_fftw_plan_r2r_1d", referenced from:      SignalVec::Init(int, std::basic_string<char, std::char_traits<char>, std::allocator<char> >)in SignalVec.o      SignalVec::Init(int, std::basic_string<char, std::char_traits<char>, std::allocator<char> >)in SignalVec.o      SignalVec::SignalVec(int, std::basic_string<char, std::char_traits<char>, std::allocator<char> >)in SignalVec.o      SignalVec::SignalVec(int, std::basic_string<char, std::char_traits<char>, std::allocator<char> >)in SignalVec.o      SignalVec::SignalVec(int, std::basic_string<char, std::char_traits<char>, std::allocator<char> >)in SignalVec.o      SignalVec::SignalVec(int, std::basic_string<char, std::char_traits<char>, std::allocator<char> >)in SignalVec.o  "_fftw_destroy_plan", referenced from:      SignalVec::~SignalVec()in SignalVec.o      SignalVec::~SignalVec()in SignalVec.o      SignalVec::~SignalVec()in SignalVec.o      SignalVec::~SignalVec()in SignalVec.o  "_fftw_execute", referenced from:      SignalVec::fft()     in SignalVec.o      SignalVec::ifft()     in SignalVec.o  "_fftw_free", referenced from:      SignalVec::~SignalVec()in SignalVec.o      SignalVec::~SignalVec()in SignalVec.o  "_fftw_malloc", referenced from:      SignalVec::Init(int, std::basic_string<char, std::char_traits<char>, std::allocator<char> >)in SignalVec.o      SignalVec::SignalVec(int, std::basic_string<char, std::char_traits<char>, std::allocator<char> >)in SignalVec.o      SignalVec::SignalVec(int, std::basic_string<char, std::char_traits<char>, std::allocator<char> >)in SignalVec.old: symbol(s) not foundcollect2: ld returned 1 exit status25(22@152"In /Developer/SDKs/MacOSX10.6.sdk/usr/local/lib/libfftw3.a, file was built for unsupported file format which is not the architecture being linked (i386)350312219#0#166#0(6@0"350312219#0#0#0#0#0"0(4@37""_fftw_plan_r2r_1d", referenced from:350312219#185#40#0(6@0"350312219#0#0#0#0#0"0(13@106"SignalVec::Init(int, std::basic_string<char, std::char_traits<char>, std::allocator<char> >)in SignalVec.o350312219#225#113#0(6@0"350312219#0#0#0#0#0"0(13@106"SignalVec::Init(int, std::basic_string<char, std::char_traits<char>, std::allocator<char> >)in SignalVec.o350312219#338#113#0(6@0"350312219#0#0#0#0#0"0(13@111"SignalVec::SignalVec(int, std::basic_string<char, std::char_traits<char>, std::allocator<char> >)in SignalVec.o350312219#451#118#0(6@0"350312219#0#0#0#0#0"0(13@111"SignalVec::SignalVec(int, std::basic_string<char, std::char_traits<char>, std::allocator<char> >)in SignalVec.o350312219#569#118#0(6@0"350312219#0#0#0#0#0"0(13@111"SignalVec::SignalVec(int, std::basic_string<char, std::char_traits<char>, std::allocator<char> >)in SignalVec.o350312219#687#118#0(6@0"350312219#0#0#0#0#0"0(13@111"SignalVec::SignalVec(int, std::basic_string<char, std::char_traits<char>, std::allocator<char> >)in SignalVec.o350312219#805#118#0(6@0"350312219#0#0#0#0#0"0(4@38""_fftw_destroy_plan", referenced from:350312219#923#41#0(6@0"350312219#0#0#0#0#0"0(13@37"SignalVec::~SignalVec()in SignalVec.o350312219#964#44#0(6@0"350312219#0#0#0#0#0"0(13@37"SignalVec::~SignalVec()in SignalVec.o350312219#1008#44#0(6@0"350312219#0#0#0#0#0"0(13@37"SignalVec::~SignalVec()in SignalVec.o350312219#1052#44#0(6@0"350312219#0#0#0#0#0"0(13@37"SignalVec::~SignalVec()in SignalVec.o350312219#1096#44#0(6@0"350312219#0#0#0#0#0"0(4@33""_fftw_execute", referenced from:350312219#1140#36#0(6@0"350312219#0#0#0#0#0"0(13@35"SignalVec::fft()     in SignalVec.o350312219#1176#42#0(6@0"350312219#0#0#0#0#0"0(13@36"SignalVec::ifft()     in SignalVec.o350312219#1218#43#0(6@0"350312219#0#0#0#0#0"0(4@30""_fftw_free", referenced from:350312219#1261#33#0(6@0"350312219#0#0#0#0#0"0(13@37"SignalVec::~SignalVec()in SignalVec.o350312219#1294#44#0(6@0"350312219#0#0#0#0#0"0(13@37"SignalVec::~SignalVec()in SignalVec.o350312219#1338#44#0(6@0"350312219#0#0#0#0#0"0(4@32""_fftw_malloc", referenced from:350312219#1382#35#0(6@0"350312219#0#0#0#0#0"0(13@106"SignalVec::Init(int, std::basic_string<char, std::char_traits<char>, std::allocator<char> >)in SignalVec.o350312219#1417#113#0(6@0"350312219#0#0#0#0#0"0(13@111"SignalVec::SignalVec(int, std::basic_string<char, std::char_traits<char>, std::allocator<char> >)in SignalVec.o350312219#1530#118#0(6@0"350312219#0#0#0#0#0"0(13@111"SignalVec::SignalVec(int, std::basic_string<char, std::char_traits<char>, std::allocator<char> >)in SignalVec.o350312219#1648#118#0(6@0"350312219#0#0#0#0#0"0(13@19"Symbol(s) not found350312219#1766#24#0(6@0"350312219#0#0#0#0#0"0(13@35"Collect2: ld returned 1 exit status350312219#1790#36#0(6@0"350312219#0#0#0#0#0"0(0#0#0"8616435392#1058"    cd /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance    setenv MACOSX_DEPLOYMENT_TARGET 10.4    /Developer/usr/bin/g++-4.0 -arch i386 -bundle -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Development -L/usr/local/bin -L/usr/local/include -F/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Development -F/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/max-includes -F/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/msp-includes -F/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/jit-includes -F/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/msp-includes -filelist /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Mimo~.build/Development/max-external.build/Objects-normal/i386/Mimo~.LinkFileList -mmacosx-version-min=10.4 -L/usr/local/lib -lfftw3 -framework MaxAPI -framework MaxAudioAPI -o /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../sdk-build/usr/local/bin/Mimo~.mxo/Contents/MacOS/Mimo~1#
+
+CLd /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../sdk-build/usr/local/bin/Mimo~.mxo/Contents/MacOS/Mimo~ normal x86_64
+s350312269.774878
+e350312269.887963
+r0
+xLd
+x/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../sdk-build/usr/local/bin/Mimo~.mxo/Contents/MacOS/Mimo~
+xnormal
+xx86_64
+old: warning: in /Developer/flext/MaxSDK-5.1.7/c74support/max-includes/MaxAPI.framework/MaxAPI, missing required architecture x86_64 in file
+old: warning: in /Developer/flext/MaxSDK-5.1.7/c74support/msp-includes/MaxAudioAPI.framework/MaxAudioAPI, missing required architecture x86_64 in file
+oUndefined symbols:
+o  "_z_dsp_free", referenced from:
+o      Mimo_free(_Mimo*)    in Mimo~.o
+o  "_class_register", referenced from:
+o      _main in Mimo~.o
+o  "_dsp_add", referenced from:
+o      Mimo_dsp(_Mimo*, _signal**, short*)in Mimo~.o
+o  "_class_addmethod", referenced from:
+o      _main in Mimo~.o
+o      _main in Mimo~.o
+o      _main in Mimo~.o
+o  "_z_dsp_setup", referenced from:
+o      Mimo_new(symbol*, long, atom*)in Mimo~.o
+o  "_class_new", referenced from:
+o      _main in Mimo~.o
+o  "_object_alloc", referenced from:
+o      Mimo_new(symbol*, long, atom*)in Mimo~.o
+o  "_outlet_new", referenced from:
+o      Mimo_new(symbol*, long, atom*)in Mimo~.o
+o  "_gensym", referenced from:
+o      _main in Mimo~.o
+o  "_sysmem_freeptr", referenced from:
+o      Mimo_free(_Mimo*)    in Mimo~.o
+o  "_sysmem_newptr", referenced from:
+o      Mimo_new(symbol*, long, atom*)in Mimo~.o
+o  "_class_dspinit", referenced from:
+o      _main in Mimo~.o
+o  "_atom_getlong", referenced from:
+o      Mimo_new(symbol*, long, atom*)in Mimo~.o
+o      Mimo_new(symbol*, long, atom*)in Mimo~.o
+old: symbol(s) not found
+ocollect2: ld returned 1 exit status
+lSLF07#2@116"Link /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../sdk-build/usr/local/bin/Mimo~.mxo/Contents/MacOS/Mimo~350312269#350312269#0(1398"ld: warning: in /Developer/flext/MaxSDK-5.1.7/c74support/max-includes/MaxAPI.framework/MaxAPI, missing required architecture x86_64 in fileld: warning: in /Developer/flext/MaxSDK-5.1.7/c74support/msp-includes/MaxAudioAPI.framework/MaxAudioAPI, missing required architecture x86_64 in fileUndefined symbols:  "_z_dsp_free", referenced from:      Mimo_free(_Mimo*)    in Mimo~.o  "_class_register", referenced from:      _main in Mimo~.o  "_dsp_add", referenced from:      Mimo_dsp(_Mimo*, _signal**, short*)in Mimo~.o  "_class_addmethod", referenced from:      _main in Mimo~.o      _main in Mimo~.o      _main in Mimo~.o  "_z_dsp_setup", referenced from:      Mimo_new(symbol*, long, atom*)in Mimo~.o  "_class_new", referenced from:      _main in Mimo~.o  "_object_alloc", referenced from:      Mimo_new(symbol*, long, atom*)in Mimo~.o  "_outlet_new", referenced from:      Mimo_new(symbol*, long, atom*)in Mimo~.o  "_gensym", referenced from:      _main in Mimo~.o  "_sysmem_freeptr", referenced from:      Mimo_free(_Mimo*)    in Mimo~.o  "_sysmem_newptr", referenced from:      Mimo_new(symbol*, long, atom*)in Mimo~.o  "_class_dspinit", referenced from:      _main in Mimo~.o  "_atom_getlong", referenced from:      Mimo_new(symbol*, long, atom*)in Mimo~.o      Mimo_new(symbol*, long, atom*)in Mimo~.old: symbol(s) not foundcollect2: ld returned 1 exit status33(22@126"In /Developer/flext/MaxSDK-5.1.7/c74support/max-includes/MaxAPI.framework/MaxAPI, missing required architecture x86_64 in file350312269#0#140#0(6@0"350312269#0#0#0#0#0"0(22@136"In /Developer/flext/MaxSDK-5.1.7/c74support/msp-includes/MaxAudioAPI.framework/MaxAudioAPI, missing required architecture x86_64 in file350312269#140#150#0(6@0"350312269#0#0#0#0#0"0(4@31""_z_dsp_free", referenced from:350312269#309#34#0(6@0"350312269#0#0#0#0#0"0(13@31"Mimo_free(_Mimo*)    in Mimo~.o350312269#343#38#0(6@0"350312269#0#0#0#0#0"0(4@35""_class_register", referenced from:350312269#381#38#0(6@0"350312269#0#0#0#0#0"0(13@16"_main in Mimo~.o350312269#419#23#0(6@0"350312269#0#0#0#0#0"0(4@28""_dsp_add", referenced from:350312269#442#31#0(6@0"350312269#0#0#0#0#0"0(13@45"Mimo_dsp(_Mimo*, _signal**, short*)in Mimo~.o350312269#473#52#0(6@0"350312269#0#0#0#0#0"0(4@36""_class_addmethod", referenced from:350312269#525#39#0(6@0"350312269#0#0#0#0#0"0(13@16"_main in Mimo~.o350312269#564#23#0(6@0"350312269#0#0#0#0#0"0(13@16"_main in Mimo~.o350312269#587#23#0(6@0"350312269#0#0#0#0#0"0(13@16"_main in Mimo~.o350312269#610#23#0(6@0"350312269#0#0#0#0#0"0(4@32""_z_dsp_setup", referenced from:350312269#633#35#0(6@0"350312269#0#0#0#0#0"0(13@40"Mimo_new(symbol*, long, atom*)in Mimo~.o350312269#668#47#0(6@0"350312269#0#0#0#0#0"0(4@30""_class_new", referenced from:350312269#715#33#0(6@0"350312269#0#0#0#0#0"0(13@16"_main in Mimo~.o350312269#748#23#0(6@0"350312269#0#0#0#0#0"0(4@33""_object_alloc", referenced from:350312269#771#36#0(6@0"350312269#0#0#0#0#0"0(13@40"Mimo_new(symbol*, long, atom*)in Mimo~.o350312269#807#47#0(6@0"350312269#0#0#0#0#0"0(4@31""_outlet_new", referenced from:350312269#854#34#0(6@0"350312269#0#0#0#0#0"0(13@40"Mimo_new(symbol*, long, atom*)in Mimo~.o350312269#888#47#0(6@0"350312269#0#0#0#0#0"0(4@27""_gensym", referenced from:350312269#935#30#0(6@0"350312269#0#0#0#0#0"0(13@16"_main in Mimo~.o350312269#965#23#0(6@0"350312269#0#0#0#0#0"0(4@35""_sysmem_freeptr", referenced from:350312269#988#38#0(6@0"350312269#0#0#0#0#0"0(13@31"Mimo_free(_Mimo*)    in Mimo~.o350312269#1026#38#0(6@0"350312269#0#0#0#0#0"0(4@34""_sysmem_newptr", referenced from:350312269#1064#37#0(6@0"350312269#0#0#0#0#0"0(13@40"Mimo_new(symbol*, long, atom*)in Mimo~.o350312269#1101#47#0(6@0"350312269#0#0#0#0#0"0(4@34""_class_dspinit", referenced from:350312269#1148#37#0(6@0"350312269#0#0#0#0#0"0(13@16"_main in Mimo~.o350312269#1185#23#0(6@0"350312269#0#0#0#0#0"0(4@33""_atom_getlong", referenced from:350312269#1208#36#0(6@0"350312269#0#0#0#0#0"0(13@40"Mimo_new(symbol*, long, atom*)in Mimo~.o350312269#1244#47#0(6@0"350312269#0#0#0#0#0"0(13@40"Mimo_new(symbol*, long, atom*)in Mimo~.o350312269#1291#47#0(6@0"350312269#0#0#0#0#0"0(13@19"Symbol(s) not found350312269#1338#24#0(6@0"350312269#0#0#0#0#0"0(13@35"Collect2: ld returned 1 exit status350312269#1362#36#0(6@0"350312269#0#0#0#0#0"0(0#0#0"8619543200#1062"    cd /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance    setenv MACOSX_DEPLOYMENT_TARGET 10.4    /Developer/usr/bin/g++-4.0 -arch x86_64 -bundle -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Development -L/usr/local/bin -L/usr/local/include -F/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Development -F/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/max-includes -F/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/msp-includes -F/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/jit-includes -F/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/msp-includes -filelist /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Mimo~.build/Development/max-external.build/Objects-normal/x86_64/Mimo~.LinkFileList -mmacosx-version-min=10.4 -L/usr/local/lib -lfftw3 -framework MaxAPI -framework MaxAudioAPI -o /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../sdk-build/usr/local/bin/Mimo~.mxo/Contents/MacOS/Mimo~1#
+
+CLd /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Mimo~.build/Development/max-external.build/Objects-normal/i386/Mimo~ normal i386
+s350314343.023126
+e350314343.081086
+r1
+xLd
+x/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Mimo~.build/Development/max-external.build/Objects-normal/i386/Mimo~
+xnormal
+xi386
+lSLF07#2@130"Link /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Mimo~.build/Development/max-external.build/Objects-normal/i386/Mimo~350314343#350314343#0(0"0(0#0#0"8607969792#1072"    cd /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance    setenv MACOSX_DEPLOYMENT_TARGET 10.4    /Developer/usr/bin/g++-4.0 -arch i386 -bundle -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Development -L/usr/local/bin -L/usr/local/include -F/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Development -F/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/max-includes -F/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/msp-includes -F/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/jit-includes -F/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/msp-includes -filelist /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Mimo~.build/Development/max-external.build/Objects-normal/i386/Mimo~.LinkFileList -mmacosx-version-min=10.4 -L/usr/local/lib -lfftw3 -framework MaxAPI -framework MaxAudioAPI -o /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Mimo~.build/Development/max-external.build/Objects-normal/i386/Mimo~0#
+
+CLd /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Mimo~.build/Development/max-external.build/Objects-normal/x86_64/Mimo~ normal x86_64
+s350314347.215784
+e350314347.250323
+r0
+xLd
+x/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Mimo~.build/Development/max-external.build/Objects-normal/x86_64/Mimo~
+xnormal
+xx86_64
+old: warning: in /Developer/SDKs/MacOSX10.6.sdk/usr/local/lib/libfftw3.a, file was built for unsupported file format which is not the architecture being linked (x86_64)
+old: warning: in /Developer/flext/MaxSDK-5.1.7/c74support/max-includes/MaxAPI.framework/MaxAPI, missing required architecture x86_64 in file
+old: warning: in /Developer/flext/MaxSDK-5.1.7/c74support/msp-includes/MaxAudioAPI.framework/MaxAudioAPI, missing required architecture x86_64 in file
+oUndefined symbols:
+o  "_z_dsp_setup", referenced from:
+o      Mimo_new(symbol*, long, atom*)in Mimo~.o
+o  "_fftw_plan_r2r_1d", referenced from:
+o      SignalVec::Init(int, std::basic_string<char, std::char_traits<char>, std::allocator<char> >)in SignalVec.o
+o      SignalVec::Init(int, std::basic_string<char, std::char_traits<char>, std::allocator<char> >)in SignalVec.o
+o      SignalVec::SignalVec(int, std::basic_string<char, std::char_traits<char>, std::allocator<char> >)in SignalVec.o
+o      SignalVec::SignalVec(int, std::basic_string<char, std::char_traits<char>, std::allocator<char> >)in SignalVec.o
+o      SignalVec::SignalVec(int, std::basic_string<char, std::char_traits<char>, std::allocator<char> >)in SignalVec.o
+o      SignalVec::SignalVec(int, std::basic_string<char, std::char_traits<char>, std::allocator<char> >)in SignalVec.o
+o  "_dsp_add", referenced from:
+o      Mimo_dsp(_Mimo*, _signal**, short*)in Mimo~.o
+o  "_fftw_destroy_plan", referenced from:
+o      SignalVec::~SignalVec()in SignalVec.o
+o      SignalVec::~SignalVec()in SignalVec.o
+o      SignalVec::~SignalVec()in SignalVec.o
+o      SignalVec::~SignalVec()in SignalVec.o
+o  "_sysmem_newptr", referenced from:
+o      Mimo_new(symbol*, long, atom*)in Mimo~.o
+o  "_class_dspinit", referenced from:
+o      _main in Mimo~.o
+o  "_fftw_execute", referenced from:
+o      SignalVec::fft()     in SignalVec.o
+o      SignalVec::ifft()     in SignalVec.o
+o  "_atom_getlong", referenced from:
+o      Mimo_new(symbol*, long, atom*)in Mimo~.o
+o      Mimo_new(symbol*, long, atom*)in Mimo~.o
+o  "_class_new", referenced from:
+o      _main in Mimo~.o
+o  "_sysmem_freeptr", referenced from:
+o      Mimo_free(_Mimo*)    in Mimo~.o
+o  "_class_addmethod", referenced from:
+o      _main in Mimo~.o
+o      _main in Mimo~.o
+o      _main in Mimo~.o
+o  "_fftw_free", referenced from:
+o      SignalVec::~SignalVec()in SignalVec.o
+o      SignalVec::~SignalVec()in SignalVec.o
+o  "_gensym", referenced from:
+o      _main in Mimo~.o
+o  "_fftw_malloc", referenced from:
+o      SignalVec::Init(int, std::basic_string<char, std::char_traits<char>, std::allocator<char> >)in SignalVec.o
+o      SignalVec::SignalVec(int, std::basic_string<char, std::char_traits<char>, std::allocator<char> >)in SignalVec.o
+o      SignalVec::SignalVec(int, std::basic_string<char, std::char_traits<char>, std::allocator<char> >)in SignalVec.o
+o  "_object_alloc", referenced from:
+o      Mimo_new(symbol*, long, atom*)in Mimo~.o
+o  "_class_register", referenced from:
+o      _main in Mimo~.o
+o  "_z_dsp_free", referenced from:
+o      Mimo_free(_Mimo*)    in Mimo~.o
+o  "_outlet_new", referenced from:
+o      Mimo_new(symbol*, long, atom*)in Mimo~.o
+old: symbol(s) not found
+ocollect2: ld returned 1 exit status
+lSLF07#2@132"Link /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Mimo~.build/Development/max-external.build/Objects-normal/x86_64/Mimo~350314347#350314347#0(3147"ld: warning: in /Developer/SDKs/MacOSX10.6.sdk/usr/local/lib/libfftw3.a, file was built for unsupported file format which is not the architecture being linked (x86_64)ld: warning: in /Developer/flext/MaxSDK-5.1.7/c74support/max-includes/MaxAPI.framework/MaxAPI, missing required architecture x86_64 in fileld: warning: in /Developer/flext/MaxSDK-5.1.7/c74support/msp-includes/MaxAudioAPI.framework/MaxAudioAPI, missing required architecture x86_64 in fileUndefined symbols:  "_z_dsp_setup", referenced from:      Mimo_new(symbol*, long, atom*)in Mimo~.o  "_fftw_plan_r2r_1d", referenced from:      SignalVec::Init(int, std::basic_string<char, std::char_traits<char>, std::allocator<char> >)in SignalVec.o      SignalVec::Init(int, std::basic_string<char, std::char_traits<char>, std::allocator<char> >)in SignalVec.o      SignalVec::SignalVec(int, std::basic_string<char, std::char_traits<char>, std::allocator<char> >)in SignalVec.o      SignalVec::SignalVec(int, std::basic_string<char, std::char_traits<char>, std::allocator<char> >)in SignalVec.o      SignalVec::SignalVec(int, std::basic_string<char, std::char_traits<char>, std::allocator<char> >)in SignalVec.o      SignalVec::SignalVec(int, std::basic_string<char, std::char_traits<char>, std::allocator<char> >)in SignalVec.o  "_dsp_add", referenced from:      Mimo_dsp(_Mimo*, _signal**, short*)in Mimo~.o  "_fftw_destroy_plan", referenced from:      SignalVec::~SignalVec()in SignalVec.o      SignalVec::~SignalVec()in SignalVec.o      SignalVec::~SignalVec()in SignalVec.o      SignalVec::~SignalVec()in SignalVec.o  "_sysmem_newptr", referenced from:      Mimo_new(symbol*, long, atom*)in Mimo~.o  "_class_dspinit", referenced from:      _main in Mimo~.o  "_fftw_execute", referenced from:      SignalVec::fft()     in SignalVec.o      SignalVec::ifft()     in SignalVec.o  "_atom_getlong", referenced from:      Mimo_new(symbol*, long, atom*)in Mimo~.o      Mimo_new(symbol*, long, atom*)in Mimo~.o  "_class_new", referenced from:      _main in Mimo~.o  "_sysmem_freeptr", referenced from:      Mimo_free(_Mimo*)    in Mimo~.o  "_class_addmethod", referenced from:      _main in Mimo~.o      _main in Mimo~.o      _main in Mimo~.o  "_fftw_free", referenced from:      SignalVec::~SignalVec()in SignalVec.o      SignalVec::~SignalVec()in SignalVec.o  "_gensym", referenced from:      _main in Mimo~.o  "_fftw_malloc", referenced from:      SignalVec::Init(int, std::basic_string<char, std::char_traits<char>, std::allocator<char> >)in SignalVec.o      SignalVec::SignalVec(int, std::basic_string<char, std::char_traits<char>, std::allocator<char> >)in SignalVec.o      SignalVec::SignalVec(int, std::basic_string<char, std::char_traits<char>, std::allocator<char> >)in SignalVec.o  "_object_alloc", referenced from:      Mimo_new(symbol*, long, atom*)in Mimo~.o  "_class_register", referenced from:      _main in Mimo~.o  "_z_dsp_free", referenced from:      Mimo_free(_Mimo*)    in Mimo~.o  "_outlet_new", referenced from:      Mimo_new(symbol*, long, atom*)in Mimo~.old: symbol(s) not foundcollect2: ld returned 1 exit status56(22@154"In /Developer/SDKs/MacOSX10.6.sdk/usr/local/lib/libfftw3.a, file was built for unsupported file format which is not the architecture being linked (x86_64)350314347#0#168#0(6@0"350314347#0#0#0#0#0"0(22@126"In /Developer/flext/MaxSDK-5.1.7/c74support/max-includes/MaxAPI.framework/MaxAPI, missing required architecture x86_64 in file350314347#168#140#0(6@0"350314347#0#0#0#0#0"0(22@136"In /Developer/flext/MaxSDK-5.1.7/c74support/msp-includes/MaxAudioAPI.framework/MaxAudioAPI, missing required architecture x86_64 in file350314347#308#150#0(6@0"350314347#0#0#0#0#0"0(4@32""_z_dsp_setup", referenced from:350314347#477#35#0(6@0"350314347#0#0#0#0#0"0(13@40"Mimo_new(symbol*, long, atom*)in Mimo~.o350314347#512#47#0(6@0"350314347#0#0#0#0#0"0(4@37""_fftw_plan_r2r_1d", referenced from:350314347#559#40#0(6@0"350314347#0#0#0#0#0"0(13@106"SignalVec::Init(int, std::basic_string<char, std::char_traits<char>, std::allocator<char> >)in SignalVec.o350314347#599#113#0(6@0"350314347#0#0#0#0#0"0(13@106"SignalVec::Init(int, std::basic_string<char, std::char_traits<char>, std::allocator<char> >)in SignalVec.o350314347#712#113#0(6@0"350314347#0#0#0#0#0"0(13@111"SignalVec::SignalVec(int, std::basic_string<char, std::char_traits<char>, std::allocator<char> >)in SignalVec.o350314347#825#118#0(6@0"350314347#0#0#0#0#0"0(13@111"SignalVec::SignalVec(int, std::basic_string<char, std::char_traits<char>, std::allocator<char> >)in SignalVec.o350314347#943#118#0(6@0"350314347#0#0#0#0#0"0(13@111"SignalVec::SignalVec(int, std::basic_string<char, std::char_traits<char>, std::allocator<char> >)in SignalVec.o350314347#1061#118#0(6@0"350314347#0#0#0#0#0"0(13@111"SignalVec::SignalVec(int, std::basic_string<char, std::char_traits<char>, std::allocator<char> >)in SignalVec.o350314347#1179#118#0(6@0"350314347#0#0#0#0#0"0(4@28""_dsp_add", referenced from:350314347#1297#31#0(6@0"350314347#0#0#0#0#0"0(13@45"Mimo_dsp(_Mimo*, _signal**, short*)in Mimo~.o350314347#1328#52#0(6@0"350314347#0#0#0#0#0"0(4@38""_fftw_destroy_plan", referenced from:350314347#1380#41#0(6@0"350314347#0#0#0#0#0"0(13@37"SignalVec::~SignalVec()in SignalVec.o350314347#1421#44#0(6@0"350314347#0#0#0#0#0"0(13@37"SignalVec::~SignalVec()in SignalVec.o350314347#1465#44#0(6@0"350314347#0#0#0#0#0"0(13@37"SignalVec::~SignalVec()in SignalVec.o350314347#1509#44#0(6@0"350314347#0#0#0#0#0"0(13@37"SignalVec::~SignalVec()in SignalVec.o350314347#1553#44#0(6@0"350314347#0#0#0#0#0"0(4@34""_sysmem_newptr", referenced from:350314347#1597#37#0(6@0"350314347#0#0#0#0#0"0(13@40"Mimo_new(symbol*, long, atom*)in Mimo~.o350314347#1634#47#0(6@0"350314347#0#0#0#0#0"0(4@34""_class_dspinit", referenced from:350314347#1681#37#0(6@0"350314347#0#0#0#0#0"0(13@16"_main in Mimo~.o350314347#1718#23#0(6@0"350314347#0#0#0#0#0"0(4@33""_fftw_execute", referenced from:350314347#1741#36#0(6@0"350314347#0#0#0#0#0"0(13@35"SignalVec::fft()     in SignalVec.o350314347#1777#42#0(6@0"350314347#0#0#0#0#0"0(13@36"SignalVec::ifft()     in SignalVec.o350314347#1819#43#0(6@0"350314347#0#0#0#0#0"0(4@33""_atom_getlong", referenced from:350314347#1862#36#0(6@0"350314347#0#0#0#0#0"0(13@40"Mimo_new(symbol*, long, atom*)in Mimo~.o350314347#1898#47#0(6@0"350314347#0#0#0#0#0"0(13@40"Mimo_new(symbol*, long, atom*)in Mimo~.o350314347#1945#47#0(6@0"350314347#0#0#0#0#0"0(4@30""_class_new", referenced from:350314347#1992#33#0(6@0"350314347#0#0#0#0#0"0(13@16"_main in Mimo~.o350314347#2025#23#0(6@0"350314347#0#0#0#0#0"0(4@35""_sysmem_freeptr", referenced from:350314347#2048#38#0(6@0"350314347#0#0#0#0#0"0(13@31"Mimo_free(_Mimo*)    in Mimo~.o350314347#2086#38#0(6@0"350314347#0#0#0#0#0"0(4@36""_class_addmethod", referenced from:350314347#2124#39#0(6@0"350314347#0#0#0#0#0"0(13@16"_main in Mimo~.o350314347#2163#23#0(6@0"350314347#0#0#0#0#0"0(13@16"_main in Mimo~.o350314347#2186#23#0(6@0"350314347#0#0#0#0#0"0(13@16"_main in Mimo~.o350314347#2209#23#0(6@0"350314347#0#0#0#0#0"0(4@30""_fftw_free", referenced from:350314347#2232#33#0(6@0"350314347#0#0#0#0#0"0(13@37"SignalVec::~SignalVec()in SignalVec.o350314347#2265#44#0(6@0"350314347#0#0#0#0#0"0(13@37"SignalVec::~SignalVec()in SignalVec.o350314347#2309#44#0(6@0"350314347#0#0#0#0#0"0(4@27""_gensym", referenced from:350314347#2353#30#0(6@0"350314347#0#0#0#0#0"0(13@16"_main in Mimo~.o350314347#2383#23#0(6@0"350314347#0#0#0#0#0"0(4@32""_fftw_malloc", referenced from:350314347#2406#35#0(6@0"350314347#0#0#0#0#0"0(13@106"SignalVec::Init(int, std::basic_string<char, std::char_traits<char>, std::allocator<char> >)in SignalVec.o350314347#2441#113#0(6@0"350314347#0#0#0#0#0"0(13@111"SignalVec::SignalVec(int, std::basic_string<char, std::char_traits<char>, std::allocator<char> >)in SignalVec.o350314347#2554#118#0(6@0"350314347#0#0#0#0#0"0(13@111"SignalVec::SignalVec(int, std::basic_string<char, std::char_traits<char>, std::allocator<char> >)in SignalVec.o350314347#2672#118#0(6@0"350314347#0#0#0#0#0"0(4@33""_object_alloc", referenced from:350314347#2790#36#0(6@0"350314347#0#0#0#0#0"0(13@40"Mimo_new(symbol*, long, atom*)in Mimo~.o350314347#2826#47#0(6@0"350314347#0#0#0#0#0"0(4@35""_class_register", referenced from:350314347#2873#38#0(6@0"350314347#0#0#0#0#0"0(13@16"_main in Mimo~.o350314347#2911#23#0(6@0"350314347#0#0#0#0#0"0(4@31""_z_dsp_free", referenced from:350314347#2934#34#0(6@0"350314347#0#0#0#0#0"0(13@31"Mimo_free(_Mimo*)    in Mimo~.o350314347#2968#38#0(6@0"350314347#0#0#0#0#0"0(4@31""_outlet_new", referenced from:350314347#3006#34#0(6@0"350314347#0#0#0#0#0"0(13@40"Mimo_new(symbol*, long, atom*)in Mimo~.o350314347#3040#47#0(6@0"350314347#0#0#0#0#0"0(13@19"Symbol(s) not found350314347#3087#24#0(6@0"350314347#0#0#0#0#0"0(13@35"Collect2: ld returned 1 exit status350314347#3111#36#0(6@0"350314347#0#0#0#0#0"0(0#0#0"8606640512#1078"    cd /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance    setenv MACOSX_DEPLOYMENT_TARGET 10.4    /Developer/usr/bin/g++-4.0 -arch x86_64 -bundle -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Development -L/usr/local/bin -L/usr/local/include -F/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Development -F/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/max-includes -F/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/msp-includes -F/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/jit-includes -F/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/msp-includes -filelist /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Mimo~.build/Development/max-external.build/Objects-normal/x86_64/Mimo~.LinkFileList -mmacosx-version-min=10.4 -L/usr/local/lib -lfftw3 -framework MaxAPI -framework MaxAudioAPI -o /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Mimo~.build/Development/max-external.build/Objects-normal/x86_64/Mimo~1#
+
+CProcessInfoPlistFile /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../sdk-build/Mimo~.mxo/Contents/Info.plist /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../Info.plist
+r0
+
+CProcessInfoPlistFile /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../sdk-build/usr/local/bin/Mimo~.mxo/Contents/Info.plist /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../Info.plist
+r0
+
+CSymLink /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Development/Mimo~.mxo /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../sdk-build/Mimo~.mxo
+s350311301.758332
+e350311301.826169
+r1
+xSymLink
+x/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Development/Mimo~.mxo
+x/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../sdk-build/Mimo~.mxo
+lSLF07#2@86"Process /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Development/Mimo~.mxo350311301#350311301#0(0"0(0#0#0"8620548288#230"    cd /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance    /bin/ln -sf /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../sdk-build/Mimo~.mxo /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Development/Mimo~.mxo0#
+
+CSymLink /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Development/Mimo~.mxo /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../sdk-build/usr/local/bin/Mimo~.mxo
+s350312107.398893
+e350312107.401955
+r1
+xSymLink
+x/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Development/Mimo~.mxo
+x/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../sdk-build/usr/local/bin/Mimo~.mxo
+lSLF07#2@86"Process /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Development/Mimo~.mxo350312107#350312107#0(0"0(0#0#0"8613663232#244"    cd /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance    /bin/ln -sf /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../sdk-build/usr/local/bin/Mimo~.mxo /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Development/Mimo~.mxo0#
+
+CTouch /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../sdk-build/Mimo~.mxo
+r0
+
+CTouch /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../sdk-build/usr/local/bin/Mimo~.mxo
+r0
+

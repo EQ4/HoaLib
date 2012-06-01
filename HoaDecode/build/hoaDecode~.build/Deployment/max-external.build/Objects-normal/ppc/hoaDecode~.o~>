@@ -1,0 +1,4 @@
+In file included from /Developer/flext/MaxSDK-5.1.7/examples/HoaDecodeConf/hoaDecode~.c:14:
+/Users/juliencolafrancesco/Documents/signalVec/ambisonicDecode.h:17:1: warning: "PI" redefined
+In file included from /Developer/flext/MaxSDK-5.1.7/examples/HoaDecodeConf/hoaDecode~.c:11:
+/Developer/flext/MaxSDK-5.1.7/examples/HoaDecodeConf/../../c74support/msp-includes/z_dsp.h:167:1: warning: this is the location of the previous definition

@@ -1,0 +1,6 @@
+/Developer/flext/MaxSDK-5.1.7/examples/hoaPan~ - copie/HOApan~.c: In function 't_int* Mimo_perform(t_int*)':
+/Developer/flext/MaxSDK-5.1.7/examples/hoaPan~ - copie/HOApan~.c:87: warning: unused variable 'in'
+/Developer/flext/MaxSDK-5.1.7/examples/hoaPan~ - copie/HOApan~.c:88: warning: unused variable 'out'
+/Developer/flext/MaxSDK-5.1.7/examples/hoaPan~ - copie/HOApan~.c:92: warning: unused variable 'tempValue'
+/Developer/flext/MaxSDK-5.1.7/examples/hoaPan~ - copie/HOApan~.c: In function 'void* Mimo_new(t_symbol*, long int, t_atom*)':
+/Developer/flext/MaxSDK-5.1.7/examples/hoaPan~ - copie/HOApan~.c:132: warning: unused variable 'orderNumber'

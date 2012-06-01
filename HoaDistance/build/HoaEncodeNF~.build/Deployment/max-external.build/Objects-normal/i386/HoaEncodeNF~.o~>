@@ -1,0 +1,95 @@
+In file included from /Developer/usr/local/boost_1_48_0/boost/math/special_functions/gamma.hpp:32,
+                 from /Developer/usr/local/boost_1_48_0/boost/math/special_functions/detail/bessel_jy.hpp:14,
+                 from /Developer/usr/local/boost_1_48_0/boost/math/special_functions/bessel.hpp:17,
+                 from /Developer/flext/MaxSDK-5.1.7/examples/HoaDistanceConf/HoaEncodeNF~.c:13:
+/Developer/usr/local/boost_1_48_0/boost/math/policies/error_handling.hpp:88:39: error: macro "msg" requires 2 arguments, but only 1 given
+/Developer/usr/local/boost_1_48_0/boost/math/policies/error_handling.hpp:105:39: error: macro "msg" requires 2 arguments, but only 1 given
+In file included from /Developer/flext/MaxSDK-5.1.7/examples/HoaDistanceConf/HoaEncodeNF~.c:15:
+/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/HoaDistance.h:22:1: warning: "PI" redefined
+In file included from /Developer/flext/MaxSDK-5.1.7/examples/HoaDistanceConf/HoaEncodeNF~.c:11:
+/Developer/flext/MaxSDK-5.1.7/examples/HoaDistanceConf/../../c74support/msp-includes/z_dsp.h:167:1: warning: this is the location of the previous definition
+/Developer/usr/local/boost_1_48_0/boost/fusion/container/list/cons_fwd.hpp:13: error: expected identifier before '__null'
+/Developer/usr/local/boost_1_48_0/boost/fusion/container/list/cons_fwd.hpp:13: error: expected unqualified-id before '__null'
+/Developer/usr/local/boost_1_48_0/boost/fusion/container/list/cons_fwd.hpp:15: error: expected type-specifier before '__null'
+/Developer/usr/local/boost_1_48_0/boost/fusion/container/list/cons_fwd.hpp:15: error: expected `>' before '__null'
+/Developer/usr/local/boost_1_48_0/boost/fusion/iterator/detail/segmented_equal_to.hpp:16: error: expected identifier before '__null'
+/Developer/usr/local/boost_1_48_0/boost/fusion/iterator/detail/segmented_equal_to.hpp:16: error: expected unqualified-id before '__null'
+/Developer/usr/local/boost_1_48_0/boost/fusion/iterator/detail/segmented_equal_to.hpp:35: error: missing '>' to terminate the template argument list
+/Developer/usr/local/boost_1_48_0/boost/fusion/iterator/detail/segmented_equal_to.hpp:35: error: wrong number of template arguments (1, should be 2)
+/Developer/usr/local/boost_1_48_0/boost/fusion/iterator/detail/segmented_equal_to.hpp:21: error: provided for 'template<class Stack1, class Stack2> struct boost::fusion::detail::segmented_equal_to'
+/Developer/usr/local/boost_1_48_0/boost/fusion/iterator/detail/segmented_equal_to.hpp:35: error: expected unqualified-id before '__null'
+/Developer/usr/local/boost_1_48_0/boost/fusion/iterator/detail/segmented_iterator.hpp:22: error: expected identifier before '__null'
+/Developer/usr/local/boost_1_48_0/boost/fusion/iterator/detail/segmented_iterator.hpp:22: error: expected unqualified-id before '__null'
+/Developer/usr/local/boost_1_48_0/boost/fusion/iterator/detail/segmented_next_impl.hpp:110: error: template argument 2 is invalid
+/Developer/usr/local/boost_1_48_0/boost/fusion/sequence/intrinsic/detail/segmented_end.hpp:21: error: expected type-specifier
+/Developer/usr/local/boost_1_48_0/boost/fusion/sequence/intrinsic/detail/segmented_end.hpp:21: error: expected `>'
+/Developer/usr/local/boost_1_48_0/boost/fusion/sequence/intrinsic/end.hpp:37: error: template argument 2 is invalid
+/Developer/usr/local/boost_1_48_0/boost/fusion/sequence/intrinsic/end.hpp:39: error: template argument 2 is invalid
+/Developer/usr/local/boost_1_48_0/boost/fusion/sequence/intrinsic/end.hpp:39: error: expected `{' before 'type'
+/Developer/usr/local/boost_1_48_0/boost/fusion/sequence/intrinsic/end.hpp:39: error: invalid member function declaration
+/Developer/usr/local/boost_1_48_0/boost/fusion/container/list/cons_iterator.hpp:21: error: expected identifier before '__null'
+/Developer/usr/local/boost_1_48_0/boost/fusion/container/list/cons_iterator.hpp:21: error: expected unqualified-id before '__null'
+/Developer/usr/local/boost_1_48_0/boost/fusion/container/list/cons_iterator.hpp:28: error: expected type-specifier before '__null'
+/Developer/usr/local/boost_1_48_0/boost/fusion/container/list/cons_iterator.hpp:28: error: expected `>' before '__null'
+/Developer/usr/local/boost_1_48_0/boost/fusion/container/list/cons_iterator.hpp:52: error: expected unqualified-id before '__null'
+/Developer/usr/local/boost_1_48_0/boost/fusion/container/list/cons_iterator.hpp:54: error: type/value mismatch at argument 1 in template parameter list for 'template<class T> struct boost::add_const'
+/Developer/usr/local/boost_1_48_0/boost/fusion/container/list/cons_iterator.hpp:54: error:   expected a type, got '0'
+/Developer/usr/local/boost_1_48_0/boost/fusion/container/list/cons_iterator.hpp:54: error: 'type' is not a member of '<declaration error>'
+/Developer/usr/local/boost_1_48_0/boost/fusion/container/list/cons_iterator.hpp:54: error: 'type' is not a member of '<declaration error>'
+/Developer/usr/local/boost_1_48_0/boost/fusion/container/list/cons_iterator.hpp:54: error: template argument 1 is invalid
+/Developer/usr/local/boost_1_48_0/boost/fusion/container/list/cons_iterator.hpp:57: error: expected unqualified-id before '__null'
+/Developer/usr/local/boost_1_48_0/boost/fusion/container/list/cons_iterator.hpp:57: error: expected `)' before '__null'
+/Developer/usr/local/boost_1_48_0/boost/fusion/container/list/cons_iterator.hpp:61: error: type/value mismatch at argument 1 in template parameter list for 'template<class Cons> struct boost::fusion::cons_iterator'
+/Developer/usr/local/boost_1_48_0/boost/fusion/container/list/cons_iterator.hpp:61: error:   expected a type, got '0'
+/Developer/usr/local/boost_1_48_0/boost/fusion/container/list/cons_iterator.hpp:61: error: explicit specialization of non-template '<type error>'
+/Developer/usr/local/boost_1_48_0/boost/fusion/container/list/cons_iterator.hpp:68: error: missing '>' to terminate the template argument list
+/Developer/usr/local/boost_1_48_0/boost/fusion/container/list/cons_iterator.hpp:68: error: type/value mismatch at argument 1 in template parameter list for 'template<class Cons> struct boost::fusion::cons_iterator'
+/Developer/usr/local/boost_1_48_0/boost/fusion/container/list/cons_iterator.hpp:68: error:   expected a type, got '0'
+/Developer/usr/local/boost_1_48_0/boost/fusion/container/list/cons_iterator.hpp:68: error: expected unqualified-id before '>' token
+/Developer/usr/local/boost_1_48_0/boost/fusion/container/list/cons_iterator.hpp:78: error: expected unqualified-id before '__null'
+/Developer/usr/local/boost_1_48_0/boost/fusion/container/list/cons_iterator.hpp:78: error: expected `)' before '__null'
+/Developer/usr/local/boost_1_48_0/boost/fusion/container/list/cons_iterator.hpp:85: error: expected unqualified-id before '__null'
+/Developer/usr/local/boost_1_48_0/boost/fusion/container/list/cons_iterator.hpp:85: error: expected `)' before '__null'
+/Developer/usr/local/boost_1_48_0/boost/fusion/container/list/detail/begin_impl.hpp:16: error: expected identifier before '__null'
+/Developer/usr/local/boost_1_48_0/boost/fusion/container/list/detail/begin_impl.hpp:16: error: expected unqualified-id before '__null'
+/Developer/usr/local/boost_1_48_0/boost/fusion/container/list/detail/end_impl.hpp:16: error: expected identifier before '__null'
+/Developer/usr/local/boost_1_48_0/boost/fusion/container/list/detail/end_impl.hpp:16: error: expected unqualified-id before '__null'
+/Developer/usr/local/boost_1_48_0/boost/fusion/container/list/detail/end_impl.hpp:38: error: missing '>' to terminate the template argument list
+/Developer/usr/local/boost_1_48_0/boost/fusion/container/list/detail/end_impl.hpp:38: error: type/value mismatch at argument 2 in template parameter list for 'template<class T1, class T2, class T3> struct boost::mpl::if_'
+/Developer/usr/local/boost_1_48_0/boost/fusion/container/list/detail/end_impl.hpp:38: error:   expected a type, got '0'
+/Developer/usr/local/boost_1_48_0/boost/fusion/container/list/detail/end_impl.hpp:38: error: wrong number of template arguments (2, should be 1)
+/Developer/usr/local/boost_1_48_0/boost/fusion/container/list/detail/next_impl.hpp:23: error: provided for 'template<class Cons> struct boost::fusion::cons_iterator'
+/Developer/usr/local/boost_1_48_0/boost/fusion/container/list/detail/end_impl.hpp:38: error: expected ';' before '>' token
+/Developer/usr/local/boost_1_48_0/boost/fusion/container/list/detail/end_impl.hpp:41: error: invalid use of template-name 'boost::type' without an argument list
+/Developer/usr/local/boost_1_48_0/boost/fusion/container/list/detail/empty_impl.hpp:16: error: expected identifier before '__null'
+/Developer/usr/local/boost_1_48_0/boost/fusion/container/list/detail/empty_impl.hpp:16: error: expected unqualified-id before '__null'
+/Developer/usr/local/boost_1_48_0/boost/fusion/container/list/detail/empty_impl.hpp:31: error: type/value mismatch at argument 2 in template parameter list for 'template<class From, class To> struct boost::is_convertible'
+/Developer/usr/local/boost_1_48_0/boost/fusion/container/list/detail/empty_impl.hpp:31: error:   expected a type, got '0'
+/Developer/usr/local/boost_1_48_0/boost/fusion/container/list/cons.hpp:37: error: expected identifier before '__null'
+/Developer/usr/local/boost_1_48_0/boost/fusion/container/list/cons.hpp:37: error: expected unqualified-id before '__null'
+/Developer/usr/local/boost_1_48_0/boost/fusion/container/list/detail/reverse_cons.hpp:15: error: expected type-specifier before '__null'
+/Developer/usr/local/boost_1_48_0/boost/fusion/container/list/detail/reverse_cons.hpp:15: error: expected `>' before '__null'
+/Developer/usr/local/boost_1_48_0/boost/fusion/container/list/detail/reverse_cons.hpp:32: error: type/value mismatch at argument 1 in template parameter list for 'template<class Cons, class State> struct boost::fusion::detail::reverse_cons'
+/Developer/usr/local/boost_1_48_0/boost/fusion/container/list/detail/reverse_cons.hpp:32: error:   expected a type, got '0'
+/Developer/usr/local/boost_1_48_0/boost/fusion/view/iterator_range/detail/segmented_iterator_range.hpp:493: error: template argument 2 is invalid
+/Developer/usr/local/boost_1_48_0/boost/fusion/view/iterator_range/detail/segmented_iterator_range.hpp:494: error: template argument 2 is invalid
+/Developer/usr/local/boost_1_48_0/boost/fusion/view/iterator_range/detail/segmented_iterator_range.hpp:498: error: 'reverse_begin_cons' is not a class or namespace
+/Developer/usr/local/boost_1_48_0/boost/fusion/view/iterator_range/detail/segmented_iterator_range.hpp:499: error: 'reverse_end_cons' is not a class or namespace
+/Developer/usr/local/boost_1_48_0/boost/fusion/view/iterator_range/detail/segmented_iterator_range.hpp:500: error: template argument 1 is invalid
+/Developer/usr/local/boost_1_48_0/boost/fusion/view/iterator_range/detail/segmented_iterator_range.hpp:500: error: template argument 2 is invalid
+/Developer/usr/local/boost_1_48_0/boost/fusion/view/iterator_range/detail/segmented_iterator_range.hpp:500: error: 'value' is not a member of '<declaration error>'
+/Developer/usr/local/boost_1_48_0/boost/fusion/view/iterator_range/detail/segmented_iterator_range.hpp:500: error: template argument 3 is invalid
+/Developer/usr/local/boost_1_48_0/boost/fusion/view/iterator_range/detail/segmented_iterator_range.hpp:500: error: 'value' is not a member of '<declaration error>'
+/Developer/usr/local/boost_1_48_0/boost/fusion/view/iterator_range/detail/segmented_iterator_range.hpp:500: error: template argument 4 is invalid
+/Developer/usr/local/boost_1_48_0/boost/fusion/view/iterator_range/detail/segmented_iterator_range.hpp:503: error: 'impl' is not a class or namespace
+/Developer/usr/local/boost_1_48_0/boost/fusion/view/iterator_range/detail/segmented_iterator_range.hpp:503: error: expected nested-name-specifier before 'type'
+/Developer/usr/local/boost_1_48_0/boost/fusion/view/iterator_range/detail/segmented_iterator_range.hpp:503: error: expected ';' before 'type'
+/Developer/usr/local/boost_1_48_0/boost/fusion/view/iterator_range/detail/segmented_iterator_range.hpp:505: error: invalid use of template-name 'boost::type' without an argument list
+/Developer/usr/local/boost_1_48_0/boost/fusion/sequence/intrinsic/detail/segmented_begin.hpp:25: error: expected type-specifier
+/Developer/usr/local/boost_1_48_0/boost/fusion/sequence/intrinsic/detail/segmented_begin.hpp:25: error: expected `>'
+/Developer/usr/local/boost_1_48_0/boost/fusion/sequence/intrinsic/begin.hpp:37: error: template argument 2 is invalid
+/Developer/usr/local/boost_1_48_0/boost/fusion/sequence/intrinsic/begin.hpp:39: error: template argument 2 is invalid
+/Developer/usr/local/boost_1_48_0/boost/fusion/sequence/intrinsic/begin.hpp:39: error: expected `{' before 'type'
+/Developer/usr/local/boost_1_48_0/boost/fusion/sequence/intrinsic/begin.hpp:39: error: invalid member function declaration
+/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/SignalProc.h:14: warning: 'class SignalProc' has virtual functions but non-virtual destructor
+/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/FftConvolution.h:17: warning: 'class FftConvolution' has virtual functions but non-virtual destructor

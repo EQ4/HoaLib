@@ -1,0 +1,13 @@
+36e63963048dcd9b3325400a42af4907 9aee2e5dfb0161598cd54c67ef31199c ffffffffffffffffffffffffffffffff 102 /Developer/flext/MaxSDK-5.1.7/examples/cpptest~/../../sdk-build/simplemsp~.mxo
+f87bf0588a2939f0dd92bece129a000c ce9dc93b8ea4f46beeb7fec45035490b ffffffffffffffffffffffffffffffff 393128 /Developer/flext/MaxSDK-5.1.7/examples/cpptest~/../../sdk-build/simplemsp~.mxo/Contents/MacOS/simplemsp~
+00000000000000000000000000000000 d8b6ff725d1950c81bb90e369e2b494e ffffffffffffffffffffffffffffffff 8 /Developer/flext/MaxSDK-5.1.7/examples/cpptest~/../../sdk-build/simplemsp~.mxo/Contents/PkgInfo
+00000000000000000000000000000000 d8b6ff725d1950c81bb90e369e2b494e ffffffffffffffffffffffffffffffff 1218 /Developer/flext/MaxSDK-5.1.7/examples/cpptest~/../../sdk-build/simplemsp~.mxo/Contents/Info.plist
+0000000030591f770000000000035bd5 cd9b1f979e012ced0ae43ab82d31e1d5 ffffffffffffffffffffffffffffffff 29452 /Developer/flext/MaxSDK-5.1.7/examples/cpptest~/build/simplemsp~.build/Development/max-external.build/Objects-normal/i386/simplemsp~.o
+00000000373bc9a70000000000036347 35e0efcf5da72527d77684763fa2b971 ffffffffffffffffffffffffffffffff 1586988 /Developer/flext/MaxSDK-5.1.7/examples/cpptest~/build/simplemsp~.build/Development/max-external.build/Objects-normal/i386/Ambisonic.o
+ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff 80 /Developer/flext/MaxSDK-5.1.7/examples/cpptest~/build/Development/simplemsp~.mxo
+ffffffffffffffffffffffffffffffff d4f45087e632736b2358ff0b4e6afafe ffffffffffffffffffffffffffffffff 9128 /Developer/flext/MaxSDK-5.1.7/examples/simplemsp~/build/simplemsp~.build/Development/max-external.build/Objects-normal/i386/simplemsp~.o
+ffffffffffffffffffffffffffffffff af261ffe084baeab9e8f7a82746d35a5 ffffffffffffffffffffffffffffffff 102 /Developer/flext/MaxSDK-5.1.7/examples/simplemsp~/../../sdk-build/simplemsp~.mxo
+ffffffffffffffffffffffffffffffff dbf7d2c45a3fd929a3dec1c062016648 ffffffffffffffffffffffffffffffff 10068 /Developer/flext/MaxSDK-5.1.7/examples/simplemsp~/../../sdk-build/simplemsp~.mxo/Contents/MacOS/simplemsp~
+00000000000000000000000000000000 8b0fda6dd8481a9a8fdb0a92f20c7d73 ffffffffffffffffffffffffffffffff 80 /Developer/flext/MaxSDK-5.1.7/examples/simplemsp~/build/Development/simplemsp~.mxo
+00000000000000000000000000000000 3de8a92acb943b8c70cfcc30f9732eb1 ffffffffffffffffffffffffffffffff 8 /Developer/flext/MaxSDK-5.1.7/examples/simplemsp~/../../sdk-build/simplemsp~.mxo/Contents/PkgInfo
+00000000000000000000000000000000 3de8a92acb943b8c70cfcc30f9732eb1 ffffffffffffffffffffffffffffffff 1218 /Developer/flext/MaxSDK-5.1.7/examples/simplemsp~/../../sdk-build/simplemsp~.mxo/Contents/Info.plist

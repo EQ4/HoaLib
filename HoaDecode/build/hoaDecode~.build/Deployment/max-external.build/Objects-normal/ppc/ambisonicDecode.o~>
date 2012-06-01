@@ -1,0 +1,3 @@
+/Users/juliencolafrancesco/Documents/signalVec/ambisonicDecode.cpp:58: error: prototype for 'std::vector<double, std::allocator<double> >* ambisonicDecode::process(const double*)' does not match any in class 'ambisonicDecode'
+/Users/juliencolafrancesco/Documents/signalVec/ambisonicDecode.h:43: error: candidate is: const std::vector<double, std::allocator<double> >* ambisonicDecode::process(const double*)
+/Users/juliencolafrancesco/Documents/signalVec/ambisonicDecode.cpp:58: error: 'std::vector<double, std::allocator<double> >* ambisonicDecode::process(const double*)' and 'const std::vector<double, std::allocator<double> >* ambisonicDecode::process(const double*)' cannot be overloaded

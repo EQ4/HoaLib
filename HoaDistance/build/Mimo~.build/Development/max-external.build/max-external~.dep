@@ -1,0 +1,10 @@
+000000004f3da50c000000000000521d 242dba697a2e84acc12824712392c51a ffffffffffffffffffffffffffffffff 0 /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Mimo~.build/Development/max-external.build/Objects-normal/i386/SignalVec.o
+0000000000065bd90000000000004b5a 236d1e04b70cb4ae625bf04597bc2a6c ffffffffffffffffffffffffffffffff 0 /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Mimo~.build/Development/max-external.build/Objects-normal/i386/HoaDistance.o
+000000004ecaec2f0000000000000310 75d08410e1ac6c0bb3dc5e7751810af8 ffffffffffffffffffffffffffffffff 5460 /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Mimo~.build/Development/max-external.build/Objects-normal/i386/SignalProc.o
+000000000765fad80000000000006e66 1d14bc1cfcf33fdcd632ca096221a991 ffffffffffffffffffffffffffffffff 0 /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Mimo~.build/Development/max-external.build/Objects-normal/i386/Mimo~.o
+000000004f1527730000000000004641 6d11a724320f37387158153b4d538983 ffffffffffffffffffffffffffffffff 0 /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Mimo~.build/Development/max-external.build/Objects-normal/i386/FftConvolution.o
+00000000000000000000000000000000 25445d6754db5be678a68ea286409a6c ffffffffffffffffffffffffffffffff 76 /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Development/Mimo~.mxo
+ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff 102 /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../sdk-build/Mimo~.mxo
+ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff 39576 /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../sdk-build/Mimo~.mxo/Contents/MacOS/Mimo~
+ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff 8 /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../sdk-build/Mimo~.mxo/Contents/PkgInfo
+ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff 1203 /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../sdk-build/Mimo~.mxo/Contents/Info.plist

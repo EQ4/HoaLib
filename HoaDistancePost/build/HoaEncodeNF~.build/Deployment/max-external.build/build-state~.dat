@@ -1,0 +1,592 @@
+Tmax-external
+v7
+r0
+t350332451.970711
+cCheck dependencies
+cProcessInfoPlistFile /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/UninstalledProducts/HoaEncodeNF~.mxo/Contents/Info.plist /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../Info.plist
+cSymLink /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Deployment/HoaEncodeNF~.mxo /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/UninstalledProducts/HoaEncodeNF~.mxo
+cCompileC build/HoaEncodeNF~.build/Deployment/max-external.build/Objects-normal/i386/HoaEncodeNF~.o /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/HoaEncodeNF~.c normal i386 c++ com.apple.compilers.gcc.4_0
+cCompileC build/HoaEncodeNF~.build/Deployment/max-external.build/Objects-normal/i386/FftConvolution.o /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/FftConvolution.cpp normal i386 c++ com.apple.compilers.gcc.4_0
+cCompileC build/HoaEncodeNF~.build/Deployment/max-external.build/Objects-normal/i386/HoaDistance.o /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/HoaDistance.cpp normal i386 c++ com.apple.compilers.gcc.4_0
+cCompileC build/HoaEncodeNF~.build/Deployment/max-external.build/Objects-normal/i386/SignalProc.o /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/SignalProc.cpp normal i386 c++ com.apple.compilers.gcc.4_0
+cCompileC build/HoaEncodeNF~.build/Deployment/max-external.build/Objects-normal/i386/SignalVec.o /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/SignalVec.cpp normal i386 c++ com.apple.compilers.gcc.4_0
+cLd /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/UninstalledProducts/HoaEncodeNF~.mxo/Contents/MacOS/HoaEncodeNF~ normal i386
+cTouch /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/UninstalledProducts/HoaEncodeNF~.mxo
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004EEDE6EC00000000000000EE
+t1324213996
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/Developer/Headers/FlatCarbon/Controls.h
+c000000004A119632000000000000001B
+t1242666546
+s27
+
+N/Developer/SDKs/MacOSX10.6.sdk/Developer/Headers/FlatCarbon/Files.h
+c000000004A1196320000000000000027
+t1242666546
+s39
+
+N/Developer/SDKs/MacOSX10.6.sdk/Developer/Headers/FlatCarbon/MacTypes.h
+c000000004A1196320000000000000027
+t1242666546
+s39
+
+N/Developer/SDKs/MacOSX10.6.sdk/Developer/Headers/FlatCarbon/QTML.h
+c000000004A119632000000000000002D
+t1242666546
+s45
+
+N/Developer/SDKs/MacOSX10.6.sdk/Developer/Headers/FlatCarbon/Quickdraw.h
+c000000004A1196320000000000000035
+t1242666546
+s53
+
+N/Developer/SDKs/MacOSX10.6.sdk/Developer/Headers/FlatCarbon/Types.h
+c000000004A1196320000000000000027
+t1242666546
+s39
+
+N/Developer/SDKs/MacOSX10.6.sdk/Developer/Headers/FlatCarbon/Windows.h
+c000000004A119632000000000000001B
+t1242666546
+s27
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h
+c000000004CC41EA700000000000005FF
+t1287921319
+s1535
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/QuickTime.framework/Headers/QuickTime.h
+c000000004CC420410000000000000659
+t1287921729
+s1625
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/assert.h
+c000000004BBD2CE90000000000000DCB
+t1270689001
+s3531
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/ctype.h
+c000000004BBD2CE90000000000002C18
+t1270689001
+s11288
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/math.h
+c000000004A5C14A000000000000004F1
+t1247548576
+s1265
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/setjmp.h
+c000000004BBD2CE90000000000000438
+t1270689001
+s1080
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004BBD2CE90000000000004174
+t1270689001
+s16756
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdlib.h
+c000000004BBD2CE90000000000002DF5
+t1270689001
+s11765
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/string.h
+c000000004BBD2CE90000000000001731
+t1270689001
+s5937
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/sys/types.h
+c000000004CC3DE680000000000002905
+t1287904872
+s10501
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/lib/gcc/i686-apple-darwin10/4.0.1/include/stdarg.h
+c000000004CC3D39D00000000000010D9
+t1287902109
+s4313
+
+N/Developer/flext/MaxSDK-5.1.7/c74support/max-includes/commonsyms.h
+c000000004D3ED322000000000001CD3A
+t1295962914
+s118074
+
+N/Developer/flext/MaxSDK-5.1.7/c74support/max-includes/ext.h
+c000000004D3ED32200000000000003FC
+t1295962914
+s1020
+i"ext_prefix.h"
+i"ext_mess.h"
+i"ext_types.h"
+i"ext_maxtypes.h"
+i"ext_byteorder.h"
+i"ext_proto.h"
+
+N/Developer/flext/MaxSDK-5.1.7/c74support/max-includes/ext_atomarray.h
+c000000004D3ED3220000000000001DD8
+t1295962914
+s7640
+
+N/Developer/flext/MaxSDK-5.1.7/c74support/max-includes/ext_byteorder.h
+c000000004D3ED32200000000000022DD
+t1295962914
+s8925
+
+N/Developer/flext/MaxSDK-5.1.7/c74support/max-includes/ext_dictionary.h
+c000000004D3ED32200000000000070CC
+t1295962914
+s28876
+
+N/Developer/flext/MaxSDK-5.1.7/c74support/max-includes/ext_expr.h
+c000000004D3ED32200000000000012CA
+t1295962914
+s4810
+
+N/Developer/flext/MaxSDK-5.1.7/c74support/max-includes/ext_hashtab.h
+c000000004D3ED322000000000000311E
+t1295962914
+s12574
+
+N/Developer/flext/MaxSDK-5.1.7/c74support/max-includes/ext_linklist.h
+c000000004D3ED32200000000000050B4
+t1295962914
+s20660
+
+N/Developer/flext/MaxSDK-5.1.7/c74support/max-includes/ext_maxtypes.h
+c000000004D3ED32200000000000009C0
+t1295962914
+s2496
+
+N/Developer/flext/MaxSDK-5.1.7/c74support/max-includes/ext_mess.h
+c000000004D3ED3220000000000002991
+t1295962914
+s10641
+
+N/Developer/flext/MaxSDK-5.1.7/c74support/max-includes/ext_obex.h
+c000000004D3ED3220000000000014F96
+t1295962914
+s85910
+i"commonsyms.h"
+i"ext_linklist.h"
+i"ext_hashtab.h"
+i"ext_atomarray.h"
+i"ext_obex_util.h"
+i"ext_dictionary.h"
+i"ext_obstring.h"
+
+N/Developer/flext/MaxSDK-5.1.7/c74support/max-includes/ext_obex_util.h
+c000000004D3ED3220000000000019853
+t1295962914
+s104531
+
+N/Developer/flext/MaxSDK-5.1.7/c74support/max-includes/ext_obstring.h
+c000000004D3ED32200000000000004F4
+t1295962914
+s1268
+
+N/Developer/flext/MaxSDK-5.1.7/c74support/max-includes/ext_path.h
+c000000004D3ED32200000000000063C7
+t1295962914
+s25543
+i<Files.h>
+
+N/Developer/flext/MaxSDK-5.1.7/c74support/max-includes/ext_prefix.h
+c000000004D3ED3220000000000001655
+t1295962914
+s5717
+i<MacTypes.h>
+i<sys/types.h>
+i<stdio.h>
+i<stdlib.h>
+i<stdarg.h>
+i<ctype.h>
+i<math.h>
+i<string.h>
+i<setjmp.h>
+i<assert.h>
+i<windows.h>
+i<richedit.h>
+i<commctrl.h>
+i"ext_prefix_win.h"
+i"qtml.h"
+
+N/Developer/flext/MaxSDK-5.1.7/c74support/max-includes/ext_proto.h
+c000000004D3ED3220000000000012613
+t1295962914
+s75283
+i"ext_types.h"
+i"ext_maxtypes.h"
+i"ext_sysmem.h"
+i"ext_sysfile.h"
+i"ext_systime.h"
+i"ext_expr.h"
+i"ext_path.h"
+i"ext_qtimage.h"
+i"ext_wind.h"
+i"ext_proto_win.h"
+
+N/Developer/flext/MaxSDK-5.1.7/c74support/max-includes/ext_proto_win.h
+c000000004D3ED3220000000000000247
+t1295962914
+s583
+
+N/Developer/flext/MaxSDK-5.1.7/c74support/max-includes/ext_qtimage.h
+c000000004D3ED32200000000000005E7
+t1295962914
+s1511
+
+N/Developer/flext/MaxSDK-5.1.7/c74support/max-includes/ext_sysfile.h
+c000000004D3ED3220000000000002277
+t1295962914
+s8823
+
+N/Developer/flext/MaxSDK-5.1.7/c74support/max-includes/ext_sysmem.h
+c000000004D3ED32200000000000016E4
+t1295962914
+s5860
+
+N/Developer/flext/MaxSDK-5.1.7/c74support/max-includes/ext_systhread.h
+c000000004D3ED3220000000000001B8D
+t1295962914
+s7053
+
+N/Developer/flext/MaxSDK-5.1.7/c74support/max-includes/ext_systime.h
+c000000004D3ED3220000000000000C29
+t1295962914
+s3113
+
+N/Developer/flext/MaxSDK-5.1.7/c74support/max-includes/ext_types.h
+c000000004D3ED322000000000000135F
+t1295962914
+s4959
+i<Types.h>
+i<Quickdraw.h>
+i<MacTypes.h>
+i<Quickdraw.h>
+i<Controls.h>
+
+N/Developer/flext/MaxSDK-5.1.7/c74support/max-includes/ext_wind.h
+c000000004D3ED3220000000000000683
+t1295962914
+s1667
+
+N/Developer/flext/MaxSDK-5.1.7/c74support/msp-includes/z_dsp.h
+c000000004D3ED3240000000000003984
+t1295962916
+s14724
+i"ext_systhread.h"
+
+N/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/max-includes/MaxAPI.framework/MaxAPI
+c000000004D3ED32200000000000FEE48
+t1295962914
+s1044040
+
+N/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/max-includes/macho-prefix.pch
+c000000004EF5055500000000000000A4
+t1324680533
+s164
+i<Carbon/Carbon.h>
+i<QuickTime/QuickTime.h>
+
+N/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/msp-includes/MaxAudioAPI.framework/MaxAudioAPI
+c000000004D3ED3240000000000068E9C
+t1295962916
+s429724
+
+N/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../sdk-build/usr/local/bin/HoaEncodeNF~.mxo
+t2
+s0
+
+N/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../sdk-build/usr/local/bin/HoaEncodeNF~.mxo/Contents/Info.plist
+t1328632053
+s1224
+
+N/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../sdk-build/usr/local/bin/HoaEncodeNF~.mxo/Contents/MacOS/HoaEncodeNF~
+t2
+s0
+
+N/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../sdk-build/usr/local/bin/HoaEncodeNF~.mxo/Contents/PkgInfo
+t1328632053
+s8
+
+N/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../Info.plist
+c000000004D3ED32000000000000003CB
+t1295962912
+s971
+
+N/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/FftConvolution.cpp
+c000000004F3144EF00000000000007E8
+t1328628975
+s2024
+i"FftConvolution.h"
+
+N/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/FftConvolution.h
+c000000004F312A200000000000000332
+t1328622112
+s818
+i"SignalProc.h"
+i"SignalVec.h"
+
+N/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/HoaDistance.cpp
+c000000004F3153D90000000000000D69
+t1328632793
+s3433
+i"HoaDistance.h"
+
+N/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/HoaDistance.h
+c000000004F3129BD00000000000003EA
+t1328622013
+s1002
+i<stdio.h>
+i<iostream>
+i<complex>
+i"MiscMath.h"
+i"SignalVec.h"
+i"FftConvolution.h"
+
+N/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/HoaEncodeNF~.c
+c000000004F314DAD0000000000000E46
+t1328631213
+s3654
+i"ext.h"
+i"ext_obex.h"
+i"z_dsp.h"
+i<HoaDistance.h>
+
+N/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/MiscMath.h
+c000000004F311C0D00000000000001FC
+t1328618509
+s508
+i"math.h"
+
+N/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/SignalProc.cpp
+c000000004F10330A0000000000000182
+t1326461706
+s386
+i"SignalProc.h"
+
+N/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/SignalProc.h
+c000000004F312C640000000000000190
+t1328622692
+s400
+
+N/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/SignalVec.cpp
+c000000004F316B720000000000001116
+t1328638834
+s4374
+i"SignalVec.h"
+
+N/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/SignalVec.h
+c000000004F311BA1000000000000058C
+t1328618401
+s1420
+i<stdio.h>
+i<iostream>
+i<string>
+i<fftw3.h>
+i<math.h>
+
+N/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Deployment/HoaEncodeNF~.mxo
+t3
+s93
+
+N/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/HoaEncodeNF~.build/Deployment/max-external.build/Objects-normal/i386/FftConvolution.o
+t1328639649
+s46192
+
+N/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/HoaEncodeNF~.build/Deployment/max-external.build/Objects-normal/i386/HoaDistance.o
+t1328639650
+s55896
+
+N/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/HoaEncodeNF~.build/Deployment/max-external.build/Objects-normal/i386/HoaEncodeNF~.LinkFileList
+c000000004F316E9F00000000000002BD
+t1328639647
+s701
+
+N/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/HoaEncodeNF~.build/Deployment/max-external.build/Objects-normal/i386/HoaEncodeNF~.o
+t1328639649
+s45704
+
+N/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/HoaEncodeNF~.build/Deployment/max-external.build/Objects-normal/i386/SignalProc.o
+t1328639650
+s5420
+
+N/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/HoaEncodeNF~.build/Deployment/max-external.build/Objects-normal/i386/SignalVec.o
+t1328639651
+s52088
+
+N/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/UninstalledProducts/HoaEncodeNF~.mxo
+t1328639651
+s102
+
+N/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/UninstalledProducts/HoaEncodeNF~.mxo/Contents/Info.plist
+t1328639647
+s1224
+
+N/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/UninstalledProducts/HoaEncodeNF~.mxo/Contents/MacOS/HoaEncodeNF~
+t1328639651
+s1677784
+
+N/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/UninstalledProducts/HoaEncodeNF~.mxo/Contents/PkgInfo
+t1328639647
+s8
+
+N/usr/local/include/fftw3.h
+c000000004F3129B70000000000004511
+t1328622007
+s17681
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies350332447#350332447#0(0"0(0#1#0"8619769888#0"0#
+
+CCompileC build/HoaEncodeNF~.build/Deployment/max-external.build/Objects-normal/i386/FftConvolution.o /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/FftConvolution.cpp normal i386 c++ com.apple.compilers.gcc.4_0
+s350332447.445079
+e350332449.186721
+r1
+xCompileC
+xbuild/HoaEncodeNF~.build/Deployment/max-external.build/Objects-normal/i386/FftConvolution.o
+x/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/FftConvolution.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_0
+o/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/SignalProc.h:14: warning: 'class SignalProc' has virtual functions but non-virtual destructor
+o/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/FftConvolution.h:17: warning: 'class FftConvolution' has virtual functions but non-virtual destructor
+lSLF07#2@77"Compile /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/FftConvolution.cpp350332447#350332449#0(298"/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/SignalProc.h:14: warning: 'class SignalProc' has virtual functions but non-virtual destructor/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/FftConvolution.h:17: warning: 'class FftConvolution' has virtual functions but non-virtual destructor2(22@67"'class SignalProc' has virtual functions but non-virtual destructor350332448#0#145#0(6@63"/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/SignalProc.h350315492#14#0#14#0#0"0(22@71"'class FftConvolution' has virtual functions but non-virtual destructor350332449#145#153#0(6@67"/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/FftConvolution.h350314912#17#0#17#0#0"0(0#0#69"/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/FftConvolution.cpp8615783104#1921"    cd /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility-inlines-hidden -mmacosx-version-min=10.4 -gdwarf-2 -I/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/HoaEncodeNF~.build/Deployment/max-external.build/HoaEncodeNF~.hmap -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Deployment -F/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/max-includes -F/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/msp-includes -F/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/jit-includes -F/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/msp-includes -I/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Deployment/include -I/Developer/SDKs/MacOSX10.6.sdk/Developer/Headers/FlatCarbon -I/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/max-includes -I/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/msp-includes -I/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/jit-includes -I/Developer/usr/local/boost_1_48_0 -I/usr/local/include -I/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/HoaEncodeNF~.build/Deployment/max-external.build/DerivedSources/i386 -I/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/HoaEncodeNF~.build/Deployment/max-external.build/DerivedSources -include /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/max-includes/macho-prefix.pch -c /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/FftConvolution.cpp -o /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/HoaEncodeNF~.build/Deployment/max-external.build/Objects-normal/i386/FftConvolution.o0#
+
+CCompileC build/HoaEncodeNF~.build/Deployment/max-external.build/Objects-normal/i386/HoaDistance.o /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/HoaDistance.cpp normal i386 c++ com.apple.compilers.gcc.4_0
+s350332449.186865
+e350332450.878436
+r1
+xCompileC
+xbuild/HoaEncodeNF~.build/Deployment/max-external.build/Objects-normal/i386/HoaDistance.o
+x/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/HoaDistance.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_0
+o/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/SignalProc.h:14: warning: 'class SignalProc' has virtual functions but non-virtual destructor
+o/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/FftConvolution.h:17: warning: 'class FftConvolution' has virtual functions but non-virtual destructor
+lSLF07#2@74"Compile /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/HoaDistance.cpp350332449#350332450#0(298"/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/SignalProc.h:14: warning: 'class SignalProc' has virtual functions but non-virtual destructor/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/FftConvolution.h:17: warning: 'class FftConvolution' has virtual functions but non-virtual destructor2(22@67"'class SignalProc' has virtual functions but non-virtual destructor350332450#0#145#0(6@63"/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/SignalProc.h350315492#14#0#14#0#0"0(22@71"'class FftConvolution' has virtual functions but non-virtual destructor350332450#145#153#0(6@67"/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/FftConvolution.h350314912#17#0#17#0#0"0(0#0#66"/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/HoaDistance.cpp8613233152#1915"    cd /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility-inlines-hidden -mmacosx-version-min=10.4 -gdwarf-2 -I/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/HoaEncodeNF~.build/Deployment/max-external.build/HoaEncodeNF~.hmap -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Deployment -F/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/max-includes -F/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/msp-includes -F/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/jit-includes -F/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/msp-includes -I/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Deployment/include -I/Developer/SDKs/MacOSX10.6.sdk/Developer/Headers/FlatCarbon -I/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/max-includes -I/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/msp-includes -I/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/jit-includes -I/Developer/usr/local/boost_1_48_0 -I/usr/local/include -I/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/HoaEncodeNF~.build/Deployment/max-external.build/DerivedSources/i386 -I/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/HoaEncodeNF~.build/Deployment/max-external.build/DerivedSources -include /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/max-includes/macho-prefix.pch -c /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/HoaDistance.cpp -o /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/HoaEncodeNF~.build/Deployment/max-external.build/Objects-normal/i386/HoaDistance.o0#
+
+CCompileC build/HoaEncodeNF~.build/Deployment/max-external.build/Objects-normal/i386/HoaEncodeNF~.o /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/HoaEncodeNF~.c normal i386 c++ com.apple.compilers.gcc.4_0
+s350332447.444117
+e350332449.247941
+r1
+xCompileC
+xbuild/HoaEncodeNF~.build/Deployment/max-external.build/Objects-normal/i386/HoaEncodeNF~.o
+x/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/HoaEncodeNF~.c
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_0
+oIn file included from /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/HoaEncodeNF~.c:14:
+o/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/HoaDistance.h:21:1: warning: "PI" redefined
+oIn file included from /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/HoaEncodeNF~.c:11:
+o/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/msp-includes/z_dsp.h:167:1: warning: this is the location of the previous definition
+o/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/SignalProc.h:14: warning: 'class SignalProc' has virtual functions but non-virtual destructor
+o/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/FftConvolution.h:17: warning: 'class FftConvolution' has virtual functions but non-virtual destructor
+lSLF07#2@73"Compile /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/HoaEncodeNF~.c350332447#350332449#0(730"In file included from /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/HoaEncodeNF~.c:14:/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/HoaDistance.h:21:1: warning: "PI" redefinedIn file included from /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/HoaEncodeNF~.c:11:/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/msp-includes/z_dsp.h:167:1: warning: this is the location of the previous definition/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/SignalProc.h:14: warning: 'class SignalProc' has virtual functions but non-virtual destructor/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/FftConvolution.h:17: warning: 'class FftConvolution' has virtual functions but non-virtual destructor4(22@14""PI" redefined350332447#92#95#2(7@87"In file included from /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/HoaEncodeNF~.c350332447#18446744073709551615#0#0(6@65"/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/HoaEncodeNF~.c350324013#14#0#14#0#0"0(13@82""PI" redefined in /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/HoaDistance.h350332447#18446744073709551615#0#0(6@64"/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/HoaDistance.h350314813#21#0#21#0#0"0(6@64"/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/HoaDistance.h350314813#21#0#21#0#13""*" redefined0(22@47"This is the location of the previous definition350332447#279#153#2(7@87"In file included from /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/HoaEncodeNF~.c350332447#18446744073709551615#0#0(6@65"/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/HoaEncodeNF~.c350324013#11#0#11#0#0"0(13@139"This is the location of the previous definition in /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/msp-includes/z_dsp.h350332447#18446744073709551615#0#0(6@88"/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/msp-includes/z_dsp.h317655716#167#0#167#0#0"0(6@88"/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/msp-includes/z_dsp.h317655716#167#0#167#0#47"this is the location of the previous definition0(22@67"'class SignalProc' has virtual functions but non-virtual destructor350332449#432#145#0(6@63"/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/SignalProc.h350315492#14#0#14#0#0"0(22@71"'class FftConvolution' has virtual functions but non-virtual destructor350332449#577#153#0(6@67"/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/FftConvolution.h350314912#17#0#17#0#0"0(0#0#65"/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/HoaEncodeNF~.c8615837024#1915"    cd /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility-inlines-hidden -mmacosx-version-min=10.4 -gdwarf-2 -I/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/HoaEncodeNF~.build/Deployment/max-external.build/HoaEncodeNF~.hmap -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Deployment -F/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/max-includes -F/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/msp-includes -F/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/jit-includes -F/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/msp-includes -I/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Deployment/include -I/Developer/SDKs/MacOSX10.6.sdk/Developer/Headers/FlatCarbon -I/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/max-includes -I/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/msp-includes -I/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/jit-includes -I/Developer/usr/local/boost_1_48_0 -I/usr/local/include -I/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/HoaEncodeNF~.build/Deployment/max-external.build/DerivedSources/i386 -I/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/HoaEncodeNF~.build/Deployment/max-external.build/DerivedSources -include /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/max-includes/macho-prefix.pch -c /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/HoaEncodeNF~.c -o /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/HoaEncodeNF~.build/Deployment/max-external.build/Objects-normal/i386/HoaEncodeNF~.o0#
+
+CCompileC build/HoaEncodeNF~.build/Deployment/max-external.build/Objects-normal/i386/SignalProc.o /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/SignalProc.cpp normal i386 c++ com.apple.compilers.gcc.4_0
+s350332449.248137
+e350332450.428560
+r1
+xCompileC
+xbuild/HoaEncodeNF~.build/Deployment/max-external.build/Objects-normal/i386/SignalProc.o
+x/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/SignalProc.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_0
+o/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/SignalProc.h:14: warning: 'class SignalProc' has virtual functions but non-virtual destructor
+lSLF07#2@73"Compile /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/SignalProc.cpp350332449#350332450#0(145"/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/SignalProc.h:14: warning: 'class SignalProc' has virtual functions but non-virtual destructor1(22@67"'class SignalProc' has virtual functions but non-virtual destructor350332450#0#145#0(6@63"/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/SignalProc.h350315492#14#0#14#0#0"0(0#0#65"/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/SignalProc.cpp8601208416#1913"    cd /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility-inlines-hidden -mmacosx-version-min=10.4 -gdwarf-2 -I/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/HoaEncodeNF~.build/Deployment/max-external.build/HoaEncodeNF~.hmap -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Deployment -F/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/max-includes -F/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/msp-includes -F/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/jit-includes -F/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/msp-includes -I/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Deployment/include -I/Developer/SDKs/MacOSX10.6.sdk/Developer/Headers/FlatCarbon -I/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/max-includes -I/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/msp-includes -I/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/jit-includes -I/Developer/usr/local/boost_1_48_0 -I/usr/local/include -I/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/HoaEncodeNF~.build/Deployment/max-external.build/DerivedSources/i386 -I/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/HoaEncodeNF~.build/Deployment/max-external.build/DerivedSources -include /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/max-includes/macho-prefix.pch -c /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/SignalProc.cpp -o /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/HoaEncodeNF~.build/Deployment/max-external.build/Objects-normal/i386/SignalProc.o0#
+
+CCompileC build/HoaEncodeNF~.build/Deployment/max-external.build/Objects-normal/i386/SignalVec.o /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/SignalVec.cpp normal i386 c++ com.apple.compilers.gcc.4_0
+s350332450.428657
+e350332451.908036
+r1
+xCompileC
+xbuild/HoaEncodeNF~.build/Deployment/max-external.build/Objects-normal/i386/SignalVec.o
+x/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/SignalVec.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@72"Compile /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/SignalVec.cpp350332450#350332451#0(0"0(0#0#64"/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/SignalVec.cpp8612343168#1911"    cd /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility-inlines-hidden -mmacosx-version-min=10.4 -gdwarf-2 -I/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/HoaEncodeNF~.build/Deployment/max-external.build/HoaEncodeNF~.hmap -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Deployment -F/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/max-includes -F/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/msp-includes -F/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/jit-includes -F/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/msp-includes -I/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Deployment/include -I/Developer/SDKs/MacOSX10.6.sdk/Developer/Headers/FlatCarbon -I/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/max-includes -I/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/msp-includes -I/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/jit-includes -I/Developer/usr/local/boost_1_48_0 -I/usr/local/include -I/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/HoaEncodeNF~.build/Deployment/max-external.build/DerivedSources/i386 -I/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/HoaEncodeNF~.build/Deployment/max-external.build/DerivedSources -include /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/max-includes/macho-prefix.pch -c /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/SignalVec.cpp -o /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/HoaEncodeNF~.build/Deployment/max-external.build/Objects-normal/i386/SignalVec.o0#
+
+CLd /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../sdk-build/usr/local/bin/HoaEncodeNF~.mxo/Contents/MacOS/HoaEncodeNF~ normal i386
+s350324855.199585
+e350324855.256447
+r1
+xLd
+x/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../sdk-build/usr/local/bin/HoaEncodeNF~.mxo/Contents/MacOS/HoaEncodeNF~
+xnormal
+xi386
+lSLF07#2@130"Link /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../sdk-build/usr/local/bin/HoaEncodeNF~.mxo/Contents/MacOS/HoaEncodeNF~350324855#350324855#0(0"0(0#0#0"8600573952#1083"    cd /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance    setenv MACOSX_DEPLOYMENT_TARGET 10.4    /Developer/usr/bin/g++-4.0 -arch i386 -bundle -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Deployment -L/usr/local/bin -L/usr/local/include -F/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Deployment -F/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/max-includes -F/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/msp-includes -F/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/jit-includes -F/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/msp-includes -filelist /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/HoaEncodeNF~.build/Deployment/max-external.build/Objects-normal/i386/HoaEncodeNF~.LinkFileList -mmacosx-version-min=10.4 -L/usr/local/lib -lfftw3 -framework MaxAPI -framework MaxAudioAPI -o /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../sdk-build/usr/local/bin/HoaEncodeNF~.mxo/Contents/MacOS/HoaEncodeNF~0#
+
+CLd /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/UninstalledProducts/HoaEncodeNF~.mxo/Contents/MacOS/HoaEncodeNF~ normal i386
+s350332451.908125
+e350332451.967787
+r1
+xLd
+x/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/UninstalledProducts/HoaEncodeNF~.mxo/Contents/MacOS/HoaEncodeNF~
+xnormal
+xi386
+lSLF07#2@126"Link /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/UninstalledProducts/HoaEncodeNF~.mxo/Contents/MacOS/HoaEncodeNF~350332451#350332451#0(0"0(0#0#0"8613056224#1079"    cd /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance    setenv MACOSX_DEPLOYMENT_TARGET 10.4    /Developer/usr/bin/g++-4.0 -arch i386 -bundle -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Deployment -L/usr/local/bin -L/usr/local/include -F/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Deployment -F/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/max-includes -F/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/msp-includes -F/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/jit-includes -F/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../c74support/msp-includes -filelist /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/HoaEncodeNF~.build/Deployment/max-external.build/Objects-normal/i386/HoaEncodeNF~.LinkFileList -mmacosx-version-min=10.4 -L/usr/local/lib -lfftw3 -framework MaxAPI -framework MaxAudioAPI -o /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/UninstalledProducts/HoaEncodeNF~.mxo/Contents/MacOS/HoaEncodeNF~0#
+
+CProcessInfoPlistFile /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../sdk-build/usr/local/bin/HoaEncodeNF~.mxo/Contents/Info.plist /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../Info.plist
+s350324853.770185
+e350324853.773872
+r1
+xProcessInfoPlistFile
+x/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../sdk-build/usr/local/bin/HoaEncodeNF~.mxo/Contents/Info.plist
+x/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../Info.plist
+lSLF07#2@72"Process /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../Info.plist350324853#350324853#0(0"0(0#0#64"/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../Info.plist8616096608#438"    cd /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance    builtin-infoPlistUtility /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../Info.plist -genpkginfo /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../sdk-build/usr/local/bin/HoaEncodeNF~.mxo/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../sdk-build/usr/local/bin/HoaEncodeNF~.mxo/Contents/Info.plist0#
+
+CProcessInfoPlistFile /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/UninstalledProducts/HoaEncodeNF~.mxo/Contents/Info.plist /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../Info.plist
+s350332447.436299
+e350332447.443991
+r1
+xProcessInfoPlistFile
+x/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/UninstalledProducts/HoaEncodeNF~.mxo/Contents/Info.plist
+x/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../Info.plist
+lSLF07#2@72"Process /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../Info.plist350332447#350332447#0(0"0(0#0#64"/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../Info.plist8616889088#430"    cd /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance    builtin-infoPlistUtility /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../Info.plist -genpkginfo /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/UninstalledProducts/HoaEncodeNF~.mxo/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/UninstalledProducts/HoaEncodeNF~.mxo/Contents/Info.plist0#
+
+CSymLink /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Deployment/HoaEncodeNF~.mxo /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../sdk-build/usr/local/bin/HoaEncodeNF~.mxo
+s350321638.563963
+e350321638.567968
+r1
+xSymLink
+x/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Deployment/HoaEncodeNF~.mxo
+x/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../sdk-build/usr/local/bin/HoaEncodeNF~.mxo
+lSLF07#2@92"Process /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Deployment/HoaEncodeNF~.mxo350321638#350321638#0(0"0(0#0#0"8620095136#257"    cd /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance    /bin/ln -sf /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../sdk-build/usr/local/bin/HoaEncodeNF~.mxo /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Deployment/HoaEncodeNF~.mxo0#
+
+CSymLink /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Deployment/HoaEncodeNF~.mxo /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/UninstalledProducts/HoaEncodeNF~.mxo
+s350332447.436964
+e350332447.442780
+r1
+xSymLink
+x/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Deployment/HoaEncodeNF~.mxo
+x/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/UninstalledProducts/HoaEncodeNF~.mxo
+lSLF07#2@92"Process /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Deployment/HoaEncodeNF~.mxo350332447#350332447#0(0"0(0#0#0"8616047456#253"    cd /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance    /bin/ln -sf /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/UninstalledProducts/HoaEncodeNF~.mxo /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/Deployment/HoaEncodeNF~.mxo0#
+
+CTouch /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../sdk-build/usr/local/bin/HoaEncodeNF~.mxo
+s350324855.256546
+e350324855.259169
+r1
+xTouch
+x/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../sdk-build/usr/local/bin/HoaEncodeNF~.mxo
+lSLF07#2@103"Touch /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../sdk-build/usr/local/bin/HoaEncodeNF~.mxo350324855#350324855#0(0"0(0#0#0"8590188416#178"    cd /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance    /usr/bin/touch -c /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/../../sdk-build/usr/local/bin/HoaEncodeNF~.mxo0#
+
+CTouch /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/UninstalledProducts/HoaEncodeNF~.mxo
+s350332451.967886
+e350332451.970674
+r1
+xTouch
+x/Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/UninstalledProducts/HoaEncodeNF~.mxo
+lSLF07#2@99"Touch /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/UninstalledProducts/HoaEncodeNF~.mxo350332451#350332451#0(0"0(0#0#0"8611015744#174"    cd /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance    /usr/bin/touch -c /Developer/flext/MaxSDK-5.1.7/examples/HoaDistance/build/UninstalledProducts/HoaEncodeNF~.mxo0#
+
